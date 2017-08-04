@@ -46,7 +46,7 @@ var valueField = "Federal";
 var valueFields = ["Federal", "State", "Local"];
 
 
-var formatCurrency = function (d) { if (isNaN(d)) d = 0; return  " Antal annonser"; };
+var formatCurrency = function (d) { if (isNaN(d)) d = 0; return   d3.format(",.2f")(d) + " Antal annonser"; };
 
 function loadData() {
 
