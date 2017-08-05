@@ -1,178 +1,2352 @@
 Level1,Level2,Level3,Federal,State,Local
-a,adecco,Administrativ assistent,12,,
-a,adecco,Lärare i grundskolan; årskurs 4-6,6,,
-a,administration,Administrativ assistent,65,,
-a,administration,Backofficepersonal,12,,
-a,administration,Ekonomiassistent,6,,
-a,administration,Kontorist,7,,
-a,administration,Kontorsreceptionist,6,,
-a,administration,Kundtjänstmedarbetare,14,,
-a,administration,Löneadministratör,6,,
-a,administration,Orderadministratör,6,,
-a,administration,Receptionist; telefonist,10,,
-a,administrativ,Administrativ chef,10,,
-a,administrativt,Administrativ assistent,6,,
-a,administratör,Administrativ assistent,368,,
-a,administratör,Administrativ utvecklare,7,,
-a,administratör,Backofficepersonal,27,,
-a,administratör,Ekonomiassistent,19,,
-a,administratör,Frontofficepersonal,7,,
-a,administratör,HR-assistent,7,,
-a,administratör,Kontorist,14,,
-a,administratör,Kundtjänstmedarbetare,9,,
-a,administratör,Läkarsekreterare/Vårdadmin/Medicinsk sekreterare,6,,
-a,administratör,Löneadministratör,6,,
-a,administratör,Orderadministratör,8,,
-a,administratör,Personaladministratör/Personalassistent,20,,
-a,administratör,Receptionist; telefonist,7,,
-a,administratör,Studieadministratör,18,,
-a,administratör,Systemadministratör,9,,
-a,administratör,Utbildningsadministratör/Utbildningssekreterare,27,,
-a,albanska,Modersmålslärare i grundskolan,10,,
-a,ale göteborg,Träarbetare/Snickare,7,,
-a,analytiker,Verksamhetsanalytiker,21,,
-a,andraspråk,Lärare i grundskolan; årskurs 7-9,8,,
-a,andraspråk,Lärare i gymnasiet,14,,
-a,andraspråk,SFI-lärare,13,,
-a,angered,Jobbcoach/Utbildningscoach,10,,
-a,anläggningsansvarig,Butikssäljare; fackhandel,7,,
-a,apotea,Handpaketerare,7,,
-a,apoteks,Farmaceut/Apotekare,12,,
-a,arabiska,Administrativ assistent,22,,
-a,arabiska,Butikssäljare/Medarbetare; dagligvaror,9,,
-a,arabiska,Butikssäljare; fackhandel,8,,
-a,arabiska,Eventsäljare/Eventförsäljare,7,,
-a,arabiska,HR-konsult/PA-konsult,8,,
-a,arabiska,Hälsopedagog,10,,
-a,arabiska,Informatör/Kommunikatör,9,,
-a,arabiska,Jobbcoach/Utbildningscoach,29,,
-a,arabiska,Kundtjänstmedarbetare,13,,
-a,arabiska,Modersmålslärare i grundskolan,61,,
-a,arabiska,Modersmålslärare/Modersmålspedagog,21,,
-a,arabiska,Officer,17,,
-a,arabiska,Personaladministratör/Personalassistent,6,,
-a,arabiska,Personlig assistent,28,,
-a,arabiska,Rekryterare/Rekryteringskonsult,11,,
-a,arabiska,Socionom,6,,
-a,arabiska,Studie- och yrkesvägledare,6,,
-a,arabiska,Tolk,7,,
-a,arabiska,Undersköterska; hemtjänst och äldreboende,9,,
-a,arabiska,Universitets- och högskolelektor,13,,
-a,arabiska,Utbildningsadministratör/Utbildningssekreterare,9,,
-a,arabiska,Utbildningskoordinator,12,,
-a,arabiska,Valutaförsäljare,11,,
-a,arabiska,Verksamhetskonsult,14,,
-a,arabiska,Vårdare/Arbetshandledare/Boendestödjare,7,,
-a,arbetskonsulent,Behandlingsassistent/Socialpedagog,7,,
-a,arbetsledare,Arbetsledare; anläggning,7,,
-a,arbetsledare,Arbetsledare; städ/Städledare,6,,
-a,arbetsledare,Arbetsledare;trädgård/Trädgårdsanläggningsförman,7,,
-a,arbetslivserfarenhet,Administrativ assistent,6,,
-a,arbetsmarknadssekreterare,Behandlingsassistent/Socialpedagog,8,,
-a,arbetsmiljösamordnare,Arbetsmiljöingenjör,6,,
-a,arbetstid,Personlig assistent,12,,
-a,arkiv,Administrativ assistent,7,,
-a,arkiv,Arkivassistent,6,,
-a,arkiv,Registrator,10,,
-a,arlanda,Barista/Kaffebartender,11,,
-a,arlanda,Biluthyrare,6,,
-a,arlanda,Budbilsförare,13,,
-a,arlanda,Butikssäljare/Medarbetare; dagligvaror,10,,
-a,arlanda,Butikssäljare; fackhandel,6,,
-a,arlanda,Cateringarbetare,6,,
-a,arlanda,Flygvärd/Flygvärdinna/Flygsteward,9,,
-a,arlanda,Frukostvärd/Frukostvärdinna,9,,
-a,arlanda,Hotellreceptionist,17,,
-a,arlanda,Kundtjänstmedarbetare,6,,
-a,arlanda,Köksbiträde,8,,
-a,arlanda,Lagerarbetare,17,,
-a,arlanda,Planerare; flygbolag,8,,
-a,arlanda,Servitör/Servitris,23,,
-a,arvid,Maskinoperatör; te-; kaffe- och kakaoberedning,8,,
-a,asian,Civilingenjör; konstruktion; maskin,14,,
-a,asian,Kock; à la carte,6,,
-a,asian,Kvalitetsingenjör/-tekniker; maskin,16,,
-a,asian,Restaurangchef,6,,
-a,asian,Utvecklingsingenjör; maskin,10,,
-a,asih,Sjuksköterska; grundutbildad,6,,
-a,assistans,Personlig assistent,54,,
-a,assistent,Administrativ assistent,27,,
-a,assistent,Personlig assistent,381,,
-a,attendo,Undersköterska; hemtjänst och äldreboende,7,,
-a,audionom,Audionom,11,,
-a,automation,Automationsingenjör; maskin,13,,
-Level1,Level2,Level3,Federal,State,Local
-b,b,Distributionsförare,6,,
-b,bagare,Bagare/Konditor,12,,
-b,balans,Personlig assistent,6,,
-b,bank,Kundtjänstmedarbetare,16,,
-b,bar,Servitör/Servitris,9,,
-b,barberare,Frisör,10,,
-b,barcelona,Kundtjänstmedarbetare,8,,
-b,barcelona,Telefonförsäljare,15,,
-b,barn,Barnskötare,6,,
-b,barn,Lärare i förskola/Förskollärare,12,,
-b,barn,Lärare i gymnasiet - yrkesämnen,12,,
-b,barn,Socialsekreterare,9,,
-b,barnskötare,Barnskötare,14,,
-b,barnskötare jobb,Barnskötare,6,,
-b,barnvakt,Barnflicka/Barnvakt,26,,
-b,bash,Mjukvaruutvecklare,7,,
-b,bauhaus,Butikssäljare; fackhandel,15,,
-b,behandlingsassistent,Behandlingsassistent/Socialpedagog,8,,
-b,behandlingspedagog,Behandlingsassistent/Socialpedagog,12,,
-b,bemanning,Lärare i fritidshem/Fritidspedagog,13,,
-b,beteendevetare,Behandlingsassistent/Socialpedagog,36,,
-b,beteendevetare,Jobbcoach/Utbildningscoach,9,,
-b,beteendevetare,Samtalsterapeut,6,,
-b,beteendevetare,Skolkurator,15,,
-b,beteendevetare,Socionom,33,,
-b,beteendevetare,Vårdare/Arbetshandledare/Boendestödjare,6,,
-b,bibliotek*,Bibliotekarie,8,,
-b,bild,Lärare i grundskolan; årskurs 4-6,6,,
-b,bild,Lärare i grundskolan; årskurs 7-9,14,,
-b,bildlärare,Folkhögskolelärare,6,,
-b,bildlärare,Lärare i grundskolan; årskurs 4-6,10,,
-b,bildlärare,Lärare i grundskolan; årskurs 7-9,14,,
-b,bildlärare,Lärare i praktiska och estetiska ämnen,8,,
-b,billackerare,Fordonslackerare,21,,
-b,bilmekaniker,Fordonstekniker/Bilmekaniker/Personbilsmekaniker,15,,
-b,biltema,Butikssäljare; fackhandel,7,,
-b,biologi,Lärare i gymnasiet,13,,
-b,blekinge,Undersköterska; vård- o specialavd. o mottagning,6,,
-b,boendestödjare,Vårdare/Arbetshandledare/Boendestödjare,8,,
-b,bohuslän,Undersköterska; hemtjänst och äldreboende,11,,
-b,borlänge,Lärare i gymnasiet,8,,
-b,bravura,Backofficepersonal,6,,
-b,bromma,Barnflicka/Barnvakt,17,,
-b,bromma,Barnskötare,21,,
-b,bromma,Lagerarbetare,15,,
-b,bromma,Lärare i förskola/Förskollärare,6,,
-b,burger,Restaurangbiträde,11,,
-b,burger king,Restaurangbiträde,7,,
-b,bussförare,Bussförare/Busschaufför,101,,
-b,butik,Avdelningschef; butik,10,,
-b,butik,Butiksansvarig,18,,
-b,butik,Butikschef,14,,
-b,butik,Butikssäljare/Medarbetare; dagligvaror,57,,
-b,butik,Butikssäljare; fackhandel,146,,
-b,butik,Kassapersonal,7,,
-b,butik,Kontorsreceptionist,6,,
-b,butik,Lagerarbetare,12,,
-b,butik,Resesäljare/Reseförsäljare/Resekonsulent,7,,
-b,butiker,Butikssäljare/Medarbetare; dagligvaror,6,,
-b,butiksbiträde,Butiksansvarig,9,,
-b,butiksbiträde,Butikssäljare/Medarbetare; dagligvaror,159,,
-b,butiksbiträde,Butikssäljare; fackhandel,79,,
-b,butiksmedarbetare,Butikssäljare/Medarbetare; dagligvaror,29,,
-b,butiksmedarbetare,Butikssäljare; fackhandel,13,,
-b,butikssäljare,Butikssäljare/Medarbetare; dagligvaror,11,,
-b,butikssäljare,Butikssäljare; fackhandel,40,,
-b,butiksäljare,Butikssäljare/Medarbetare; dagligvaror,12,,
-b,butiksäljare,Butikssäljare; fackhandel,20,,
-b,bvc,Distriktssköterska,6,,
-b,bygglov,Bygglovshandläggare,8,,
-b,byggmax,Butikssäljare; fackhandel,9,,
-b,bålsta,Lagerarbetare,7,,
-b,bålsta,Receptionist; telefonist,6,,
-b,bålsta,Terminalarbetare,11,,
+0-9, *,3D-grafiker,6,0,0
+0-9, *,Systemadministratör,7,0,0
+0-9, *,Svetsare; manuell,26,0,0
+0-9, *,Speldesigner,6,0,0
+0-9, *,Servitör/Servitris,6,0,0
+0-9, *,SQE Supplier Quality Engineer,7,0,0
+0-9, *,Revisor,7,0,0
+0-9, *,Restaurangchef,6,0,0
+0-9, *,Rekryterare/Rekryteringskonsult,5,0,0
+0-9, *,Redovisningsekonom,5,0,0
+0-9, *,Receptionist; telefonist,5,0,0
+0-9, *,Systemutvecklare/Programmerare,42,0,0
+0-9, *,Projektledare; reklam,8,0,0
+0-9, *,Programmerare; onlinespel,24,0,0
+0-9, *,Programmerare; mobilspel,6,0,0
+0-9, *,Produktutvecklare,12,0,0
+0-9, *,Produktionsingenjör; maskin,7,0,0
+0-9, *,Produktionschef; tillverkning,9,0,0
+0-9, *,Personalchef/HR-chef,6,0,0
+0-9, *,Personalansvarig,8,0,0
+0-9, *,Optiker,29,0,0
+0-9, *,Montör; metallprodukter,10,0,0
+0-9, *,Mjukvaruutvecklare,14,0,0
+0-9, *,Programmerare; webbspel,8,0,0
+0-9, *,Mediasäljare,8,0,0
+0-9, *,Säljassistent,6,0,0
+0-9, *,Teamledare,25,0,0
+0-9,_,Vårdare/Arbetshandledare/Boendestödjare,6,0,0
+0-9,_,Städare/Lokalvårdare,15,0,0
+0-9,7242270,Kontorsreceptionist,7,0,0
+0-9,7233939,Administrativ assistent,5,0,0
+0-9,7-9,Lärare i grundskolan; årskurs 7-9,14,0,0
+0-9,3d,Systemutvecklare/Programmerare,5,0,0
+0-9,21070243,Översättare,7,0,0
+0-9,21066448,Psykolog,5,0,0
+0-9,18,Tidningsbud/Tidningsdistributör,5,0,0
+0-9,18,Kundtjänstmedarbetare,6,0,0
+0-9, *,Säljkonsulent,33,0,0
+0-9,.net,Systemutvecklare/Programmerare,34,0,0
+0-9,-framtiden,Systemutvecklare/Programmerare,23,0,0
+0-9,-embedded,Systemutvecklare/Programmerare,23,0,0
+0-9,-academic,Systemutvecklare/Programmerare,23,0,0
+0-9,-.net,Systemutvecklare/Programmerare,23,0,0
+0-9, *,Webbansvarig/Webbstrateg,8,0,0
+0-9, *,Utesäljare,68,0,0
+0-9, *,Universitets- och högskoleadjunkt,6,0,0
+0-9, *,Träarbetare/Snickare,6,0,0
+0-9, *,Truckförare,12,0,0
+0-9, *,Telefonförsäljare,59,0,0
+0-9,.NET,Systemutvecklare/Programmerare,9,0,0
+0-9, *,Marknadskommunikatör,11,0,0
+0-9,_,Personlig assistent,80,0,0
+0-9, *,Marknadsassistent,6,0,0
+0-9, *,Doktorand,6,0,0
+0-9, *,Designer,6,0,0
+0-9, *,Demonstratör,39,0,0
+0-9, *,Copywriter,8,0,0
+0-9, *,Civilingenjör; teknisk fysik,6,0,0
+0-9, *,Civilingenjör; konstruktion; elektronik,7,0,0
+0-9, *,CNC-operatör/FMS-operatör,19,0,0
+0-9, *,Butikssäljare; fackhandel,64,0,0
+0-9, *,Butikssäljare/Medarbetare; dagligvaror,11,0,0
+0-9, *,Butiksdemonstratör,85,0,0
+0-9, *,Ekonomiassistent,17,0,0
+0-9, *,Butikschef,10,0,0
+0-9, *,Biokemist,7,0,0
+0-9, *,Besöksbokare/Kundbokare,5,0,0
+0-9, *,Barista/Kaffebartender,7,0,0
+0-9, *,Backend-utvecklare,6,0,0
+0-9, *,Avdelningschef; butik,8,0,0
+0-9, *,Applikationsutvecklare/Apputvecklare,7,0,0
+0-9, *,Affärsutvecklare,14,0,0
+0-9, *,Administrativ assistent,20,0,0
+0-9, *,Marknadsförare,33,0,0
+0-9, *,Account manager,64,0,0
+0-9, *,Business controller,20,0,0
+0-9, *,Ekonomichef,8,0,0
+0-9, *,Abonnemangsförsäljare,9,0,0
+0-9, *,Farmaceut/Receptarie,6,0,0
+0-9, *,Lagerarbetare,12,0,0
+0-9, *,Eventsäljare/Eventförsäljare,21,0,0
+0-9, *,Kvalitetsingenjör/-tekniker; kemiteknik,7,0,0
+0-9, *,Kundtjänstmedarbetare,55,0,0
+0-9, *,Kock; à la carte,7,0,0
+0-9, *,Key account manager,32,0,0
+0-9, *,Journalist/Reporter,7,0,0
+0-9, *,Innesäljare,51,0,0
+0-9, *,Inköpsingenjör,6,0,0
+0-9, *,Inköpare,20,0,0
+0-9, *,Informatör/Kommunikatör,17,0,0
+0-9, *,IT-strateg,7,0,0
+0-9, *,Hemförsäljare,95,0,0
+0-9, *,Internationell säljare,10,0,0
+0-9, *,Grafisk formgivare,6,0,0
+0-9, *,Helpdesktekniker/Supporttekniker,7,0,0
+0-9, *,Fordonstekniker/Bilmekaniker/Personbilsmekaniker,6,0,0
+0-9, *,Forskningslaborant; kemi,7,0,0
+0-9, *,Frisör,12,0,0
+0-9, *,Fysiker,24,0,0
+0-9, *,Frontend-utvecklare,7,0,0
+0-9, *,Financial controller,12,0,0
+0-9, *,Försäljningschef,16,0,0
+0-9, *,Försäljningsassistent,5,0,0
+0-9,"""Incident Manager""",Processansvarig; ITIL,5,0,0
+0-9,"""arena personal""",Kundtjänstmedarbetare,6,0,0
+0-9,"""arena personal""",Lagerarbetare,7,0,0
+a,alla jobb,Städare/Lokalvårdare,5,0,0
+a,analytiker,Marknadsanalytiker,5,0,0
+a,allt,Fotograf,5,0,0
+a,alla jobb,Personlig assistent,5,0,0
+a,administratör,Utbildningsadministratör/Utbildningssekreterare,27,0,0
+a,albanska,Modersmålslärare i grundskolan,10,0,0
+a,alarm,Hemförsäljare,5,0,0
+a,ahlsell,Butikssäljare; fackhandel,5,0,0
+a,administratör,Utbildningskonsulent; företag,5,0,0
+a,administratör,Tulltjänsteman,5,0,0
+a,analytiker,Verksamhetsanalytiker,21,0,0
+a,ale göteborg,Träarbetare/Snickare,7,0,0
+a,andraspråk,Lärare i grundskolan; årskurs 7-9,8,0,0
+a,arabiska,Informatör/Kommunikatör,9,0,0
+a,andraspråk,SFI-lärare,13,0,0
+a,angered,Jobbcoach/Utbildningscoach,10,0,0
+a,anläggningsansvarig,Butikssäljare; fackhandel,7,0,0
+a,apotea,Handpaketerare,7,0,0
+a,apoteks,Farmaceut/Apotekare,12,0,0
+a,arabiska,Administrativ assistent,22,0,0
+a,arabiska,Butikssäljare/Medarbetare; dagligvaror,9,0,0
+a,arabiska,Butikssäljare; fackhandel,8,0,0
+a,arabiska,Eventsäljare/Eventförsäljare,7,0,0
+a,arabiska,Föreningsinstruktör,5,0,0
+a,arabiska,Hälsopedagog,10,0,0
+a,administratör,Transportadministratör,5,0,0
+a,arabiska,Institutionssekreterare,5,0,0
+a,arabiska,Internationell säljare,5,0,0
+a,andraspråk,Lärare i gymnasiet,14,0,0
+a,administratör,Systemadministratör,9,0,0
+a,administratör,Ekonomiassistent,19,0,0
+a,administratör,Receptionist; telefonist,7,0,0
+a,adecco,Administrativ assistent,12,0,0
+a,adecco,Lärare i grundskolan; årskurs 4-6,6,0,0
+a,adecco,Personlig assistent,5,0,0
+a,adecco,Sjuksköterska; grundutbildad,5,0,0
+a,administration,Administrativ assistent,65,0,0
+a,administration,Backofficepersonal,12,0,0
+a,administration,Ekonomiassistent,6,0,0
+a,administration,Kontorist,7,0,0
+a,administration,Kontorsreceptionist,6,0,0
+a,administration,Kundtjänstmedarbetare,14,0,0
+a,administration,Löneadministratör,6,0,0
+a,administration,Orderadministratör,6,0,0
+a,administration,Receptionist; telefonist,10,0,0
+a,administrativ,Administrativ chef,10,0,0
+a,administrativt,Administrativ assistent,6,0,0
+a,administratör,Administrativ assistent,368,0,0
+a,administratör,Administrativ utvecklare,7,0,0
+a,administratör,Backofficepersonal,27,0,0
+a,arabiska,Jobbcoach/Utbildningscoach,29,0,0
+a,administratör,Frontofficepersonal,7,0,0
+a,administratör,HR-assistent,7,0,0
+a,administratör,HR-specialist/HR-adviser,5,0,0
+a,administratör,Kontorist,14,0,0
+a,administratör,Kontorsreceptionist,5,0,0
+a,administratör,Kundtjänstmedarbetare,9,0,0
+a,administratör,Läkarsekreterare/Vårdadmin/Medicinsk sekreterare,6,0,0
+a,administratör,Löneadministratör,6,0,0
+a,administratör,Orderadministratör,8,0,0
+a,administratör,Personaladministratör/Personalassistent,20,0,0
+a,administratör,Studieadministratör,18,0,0
+a,arabiska,Kundtjänstmedarbetare,13,0,0
+a,arabiska,Utbildningskoordinator,12,0,0
+a,arabiska,Modersmålslärare/Modersmålspedagog,21,0,0
+a,arlanda,Cateringarbetare,6,0,0
+a,arlanda,Flygvärd/Flygvärdinna/Flygsteward,9,0,0
+a,arlanda,Frukostvärd/Frukostvärdinna,9,0,0
+a,arlanda,Hotellreceptionist,17,0,0
+a,arlanda,Kock; storhushåll,5,0,0
+a,arlanda,Kundtjänstmedarbetare,6,0,0
+a,arlanda,Köksbiträde,8,0,0
+a,arlanda,Lagerarbetare,17,0,0
+a,arlanda,Planerare; flygbolag,8,0,0
+a,arlanda,Rekryterare/Rekryteringskonsult,5,0,0
+a,arlanda,Servitör/Servitris,23,0,0
+a,arlanda,Städare/Lokalvårdare,5,0,0
+a,arvid,Maskinoperatör; te-; kaffe- och kakaoberedning,8,0,0
+a,arlanda,Butikssäljare; fackhandel,6,0,0
+a,asian,Civilingenjör; konstruktion; maskin,14,0,0
+a,asian,Kvalitetsingenjör/-tekniker; maskin,16,0,0
+a,asian,Restaurangchef,6,0,0
+a,asian,Utvecklingsingenjör; maskin,10,0,0
+a,asih,Sjuksköterska; grundutbildad,6,0,0
+a,assistans,Personlig assistent,54,0,0
+a,assistant,Administrativ assistent,5,0,0
+a,assistant,Personlig assistent,5,0,0
+a,assistent,Administrativ assistent,27,0,0
+a,assistent,Personlig assistent,381,0,0
+a,attendo,Undersköterska; hemtjänst och äldreboende,7,0,0
+a,audionom,Audionom,11,0,0
+a,automation,Automationsingenjör; elkraft,5,0,0
+a,automation,Automationsingenjör; maskin,13,0,0
+a,asian,Kock; à la carte,6,0,0
+a,arlanda,Butikssäljare/Medarbetare; dagligvaror,10,0,0
+a,arlanda,Budbilsförare,13,0,0
+a,arlanda,Biluthyrare,6,0,0
+a,arabiska,Officer,17,0,0
+a,arabiska,Personaladministratör/Personalassistent,6,0,0
+a,arabiska,Personlig assistent,28,0,0
+a,arabiska,Rekryterare/Rekryteringskonsult,11,0,0
+a,arabiska,Socionom,6,0,0
+a,arabiska,Studie- och yrkesvägledare,6,0,0
+a,arabiska,Studieorganisatör,5,0,0
+a,arabiska,Tolk,7,0,0
+a,arabiska,Undersköterska; hemtjänst och äldreboende,9,0,0
+a,arabiska,Universitets- och högskolelektor,13,0,0
+a,arabiska,Utbildningsadministratör/Utbildningssekreterare,9,0,0
+a,arabiska,Valutaförsäljare,11,0,0
+a,arabiska,Verksamhetskonsult,14,0,0
+a,arabiska,Vårdare/Arbetshandledare/Boendestödjare,7,0,0
+a,arbetskonsulent,Behandlingsassistent/Socialpedagog,7,0,0
+a,arbetskonsulent,Integrationshandläggare,5,0,0
+a,arbetsledare,Arbetsledare; anläggning,7,0,0
+a,arbetsledare,Arbetsledare; städ/Städledare,6,0,0
+a,arbetsledare,Arbetsledare;trädgård/Trädgårdsanläggningsförman,7,0,0
+a,arbetslivserfarenhet,Administrativ assistent,6,0,0
+a,arbetsmarknadssekreterare,Behandlingsassistent/Socialpedagog,8,0,0
+a,arbetsmiljösamordnare,Arbetsmiljöingenjör,6,0,0
+a,arbetstid,Personlig assistent,12,0,0
+a,accountant,Redovisningsekonom,5,0,0
+a,arkiv,Administrativ assistent,7,0,0
+a,arkiv,Arkivassistent,6,0,0
+a,arkiv,Registrator,10,0,0
+a,arlanda,Administrativ assistent,5,0,0
+a,arlanda,Barista/Kaffebartender,11,0,0
+a,arabiska,Modersmålslärare i grundskolan,61,0,0
+a,arkeologi,Arkeolog,5,0,0
+a,arabiska,HR-konsult/PA-konsult,8,0,0
+a,Alla jobb,Orderadministratör,5,0,0
+a,Alla jobb,Distributionsförare,5,0,0
+a,Alla jobb,Kundtjänstmedarbetare,16,0,0
+a,Alla jobb,Lagerarbetare,5,0,0
+a,Attendo,Stödassistent,6,0,0
+a,Anläggare,Väg-och anläggningsarbetare,6,0,0
+a,AnnSam,Sjuksköterska; grundutbildad,9,0,0
+a,Annas,Personlig assistent,7,0,0
+a,"Apotekare, Farmaceut",Farmaceut/Receptarie,5,0,0
+a,App utvecklare,Applikationsutvecklare/Apputvecklare,12,0,0
+a,Arabiska,Jobbcoach/Utbildningscoach,7,0,0
+a,Arabiska,Modersmålslärare i grundskolan,9,0,0
+a,Arabiska,Personlig assistent,6,0,0
+a,Alla jobb,Backofficepersonal,8,0,0
+a,Arbetsledare,Arbetsledare; städ/Städledare,9,0,0
+a,Arlanda,Budbilsförare,11,0,0
+a,Arlanda,Butikssäljare/Medarbetare; dagligvaror,13,0,0
+a,Arlanda,Butikssäljare; fackhandel,10,0,0
+a,Arlanda,Controller,7,0,0
+a,Arlanda,Flygvärd/Flygvärdinna/Flygsteward,8,0,0
+a,Arlanda,Lagerarbetare,30,0,0
+a,Arlanda,Resesäljare/Reseförsäljare/Resekonsulent,5,0,0
+a,Arlanda,Servitör/Servitris,10,0,0
+a,Arlanda,Utesäljare,7,0,0
+a,Asian kock,Kock; à la carte,5,0,0
+a,Assistans,Personlig assistent,15,0,0
+a,Assistent,Administrativ assistent,9,0,0
+a,Arlanda,Administrativ assistent,9,0,0
+a,Assistent,Elevassistent,7,0,0
+a,Alla,Sjuksköterska; grundutbildad,8,0,0
+a,Alla,Lärare i grundskolan; årskurs 4-6,6,0,0
+a,AB,Innesäljare,5,0,0
+a,Autism,Personlig assistent,6,0,0
+a,AB,Kundtjänstmedarbetare,7,0,0
+a,AB,Lagerarbetare,5,0,0
+a,AB,Personlig assistent,8,0,0
+a,AB,Städare/Lokalvårdare,5,0,0
+a,Alla,Personlig assistent,7,0,0
+a,ADMINISTRATÖR,Administrativ assistent,5,0,0
+a,ALMA,Personlig assistent,9,0,0
+a,Accountant,Redovisningsekonom,12,0,0
+a,AB,Träarbetare/Snickare,5,0,0
+a,Administration,Administrativ assistent,9,0,0
+a,Ale,Undersköterska; hemtjänst och äldreboende,10,0,0
+a,Actic,Instruktör/Tränare inom specialidrott,5,0,0
+a,Albanoskolan,Lärare i fritidshem/Fritidspedagog,5,0,0
+a,Administratör,Personaladministratör/Personalassistent,8,0,0
+a,Assistent,Personlig assistent,50,0,0
+a,Administratör,Kontorsreceptionist,5,0,0
+a,Administratör,Ekonomiassistent,8,0,0
+a,Administratör,Backofficepersonal,14,0,0
+a,Administratör,Administrativ assistent,136,0,0
+a,Administratör,Läkarsekreterare/Vårdadmin/Medicinsk sekreterare,5,0,0
+b,bauhaus,Butikssäljare; fackhandel,15,0,0
+b,bauhaus,Kassapersonal,5,0,0
+b,behandlare,Familjebehandlare,5,0,0
+b,behandlingsassistent,Behandlingsassistent/Socialpedagog,8,0,0
+b,behandlingspedagog,Behandlingsassistent/Socialpedagog,12,0,0
+b,bash,Mjukvaruutvecklare,7,0,0
+b,barnvakt,Barnflicka/Barnvakt,26,0,0
+b,barnskötare jobb,Barnskötare,6,0,0
+b,barnskötare,Barnskötare,14,0,0
+b,barn,Socialsekreterare,9,0,0
+b,barn,Personlig assistent,5,0,0
+b,barn,Lärare i gymnasiet - yrkesämnen,12,0,0
+b,barn,Lärare i förskola/Förskollärare,12,0,0
+b,barn,Barnskötare,6,0,0
+b,bemanning,Lärare i fritidshem/Fritidspedagog,13,0,0
+b,bålsta,Tidningsbud/Tidningsdistributör,5,0,0
+b,bålsta,Terminalarbetare,11,0,0
+b,bålsta,Receptionist; telefonist,6,0,0
+b,bravura,Backofficepersonal,6,0,0
+b,borås,Lagerarbetare,5,0,0
+b,borås,Kundtjänstmedarbetare,5,0,0
+b,borlänge,Lärare i gymnasiet,8,0,0
+b,bohuslän,Undersköterska; hemtjänst och äldreboende,11,0,0
+b,boendestödjare,Vårdare/Arbetshandledare/Boendestödjare,8,0,0
+b,boendehandledare,Vårdare/Arbetshandledare/Boendestödjare,5,0,0
+b,blekinge,Undersköterska; vård- o specialavd. o mottagning,6,0,0
+b,birka,Informatör/Kommunikatör,5,0,0
+b,biologi,Lärare i gymnasiet,13,0,0
+b,biltema,Grafisk formgivare,5,0,0
+b,biltema,Butikssäljare; fackhandel,7,0,0
+b,bilmekaniker,Fordonstekniker/Bilmekaniker/Personbilsmekaniker,15,0,0
+b,billackerare,Industrilackerare,5,0,0
+b,billackerare,Fordonslackerare,21,0,0
+b,billackerare,Bilplåtslagare/Bilskade- och karosserireparatör,5,0,0
+b,bildlärare,Lärare i praktiska och estetiska ämnen,8,0,0
+b,beteendevetare,Fältassistent,5,0,0
+b,beteendevetare,Jobbcoach/Utbildningscoach,9,0,0
+b,beteendevetare,Psykolog,5,0,0
+b,beteendevetare,Samtalsterapeut,6,0,0
+b,beteendevetare,Skolkurator,15,0,0
+b,beteendevetare,Socionom,33,0,0
+b,bromma,Barnflicka/Barnvakt,17,0,0
+b,beteendevetare,Specialpedagog,5,0,0
+b,bibliotek*,Bibliotekarie,8,0,0
+b,bild,Lärare i grundskolan; årskurs 4-6,6,0,0
+b,bild,Lärare i grundskolan; årskurs 7-9,14,0,0
+b,bildlärare,Folkhögskolelärare,6,0,0
+b,bildlärare,Lärare i grundskolan; årskurs 4-6,10,0,0
+b,bildlärare,Lärare i grundskolan; årskurs 7-9,14,0,0
+b,beteendevetare,Vårdare/Arbetshandledare/Boendestödjare,6,0,0
+b,bromma,Barnskötare,21,0,0
+b,bromma,Lagerarbetare,15,0,0
+b,bromma,Lärare i förskola/Förskollärare,6,0,0
+b,butiksbiträde,Butikssäljare/Medarbetare; dagligvaror,159,0,0
+b,butiksbiträde,Butikssäljare; fackhandel,79,0,0
+b,butiksmedarbetare,Butikssäljare/Medarbetare; dagligvaror,29,0,0
+b,butiksmedarbetare,Butikssäljare; fackhandel,13,0,0
+b,butikssäljare,Butikssäljare/Medarbetare; dagligvaror,11,0,0
+b,butikssäljare,Butikssäljare; fackhandel,40,0,0
+b,butiksbiträde,Butiksansvarig,9,0,0
+b,butiksäljare,Butikssäljare/Medarbetare; dagligvaror,12,0,0
+b,bvc,Distriktssköterska,6,0,0
+b,byggingenjör,Byggnadsingenjör,5,0,0
+b,bygglov,Bygglovshandläggare,8,0,0
+b,byggmax,Butikssäljare; fackhandel,9,0,0
+b,bålsta,Brevbärare,5,0,0
+b,bålsta,Lagerarbetare,7,0,0
+b,butiksäljare,Butikssäljare; fackhandel,20,0,0
+b,barcelona,Telefonförsäljare,15,0,0
+b,butiker,Butikssäljare/Medarbetare; dagligvaror,6,0,0
+b,butik,Resesäljare/Reseförsäljare/Resekonsulent,7,0,0
+b,bromma,Personlig assistent,5,0,0
+b,budbil,Budbilsförare,5,0,0
+b,burger,Restaurangbiträde,11,0,0
+b,burger king,Restaurangbiträde,7,0,0
+b,bussförare,Bussförare/Busschaufför,101,0,0
+b,butik,Avdelningschef; butik,10,0,0
+b,butik,Säljkonsulent,5,0,0
+b,butik,Butiksansvarig,18,0,0
+b,butik,Butiksdemonstratör,5,0,0
+b,butik,Butikssäljare/Medarbetare; dagligvaror,57,0,0
+b,butik,Butikssäljare; fackhandel,146,0,0
+b,butik,Kassapersonal,7,0,0
+b,butik,Kontorsreceptionist,6,0,0
+b,butik,Lagerarbetare,12,0,0
+b,butik,Butikschef,14,0,0
+b,barcelona,Kundtjänstmedarbetare,8,0,0
+b,bemanningskontoret,Kundtjänstmedarbetare,5,0,0
+b,barberare,Frisör,10,0,0
+b,Burger King,Restaurangbiträde,8,0,0
+b,Burger king,Restaurangbiträde,7,0,0
+b,Butik,Butiksansvarig,5,0,0
+b,Butik,Butikssäljare/Medarbetare; dagligvaror,25,0,0
+b,Butik,Butikssäljare; fackhandel,50,0,0
+b,Butik,Charkuteriarbetare; butik,5,0,0
+b,Butik,Kassapersonal,6,0,0
+b,Butik,Kundtjänstmedarbetare,7,0,0
+b,Butiksbiträde,Butikssäljare/Medarbetare; dagligvaror,71,0,0
+b,Butiksbiträde,Butikssäljare; fackhandel,33,0,0
+b,Butikssäljare,Butikssäljare/Medarbetare; dagligvaror,8,0,0
+b,Butikssäljare,Butikssäljare; fackhandel,16,0,0
+b,Bygg,Grovarbetare; bygg och anläggning,6,0,0
+b,Bygglov,Bygglovshandläggare,7,0,0
+b,Bålsta,Lagerarbetare,8,0,0
+b,Burger,Restaurangbiträde,10,0,0
+b,Bålsta,Terminalarbetare,6,0,0
+b,Bromma,Personlig assistent,5,0,0
+b,Bromma,Lärare i förskola/Förskollärare,12,0,0
+b,Becool,Distributionsförare,5,0,0
+b,Beteendevetare,Behandlingsassistent/Socialpedagog,14,0,0
+b,Beteendevetare,Socionom,8,0,0
+b,Bildlärare,Folkhögskolelärare,7,0,0
+b,barberare,Herrfrisör,5,0,0
+b,Bildlärare,Lärare i grundskolan; årskurs 4-6,11,0,0
+b,Bildlärare,Lärare i grundskolan; årskurs 7-9,20,0,0
+b,Bildlärare,Lärare i praktiska och estetiska ämnen,14,0,0
+b,Billackerare,Fordonslackerare,8,0,0
+b,Blekinge,Tidningsbud/Tidningsdistributör,8,0,0
+b,Boendestödjare,Vårdare/Arbetshandledare/Boendestödjare,11,0,0
+b,beteendevetare,Behandlingsassistent/Socialpedagog,36,0,0
+b,"Borås , Göteborg",Lagerarbetare,6,0,0
+b,Bromma,Barnskötare,9,0,0
+b,Bromma,Butikssäljare; fackhandel,5,0,0
+b,Bromma,Lärare i grundskolan; årskurs 1-3,6,0,0
+b,Barnvakt,Barnflicka/Barnvakt,19,0,0
+b,Barnbibliotekarie,Bibliotekarie,5,0,0
+b,B3IT,Metodanalytiker; IT,5,0,0
+b,bar,Servitör/Servitris,9,0,0
+b,bank,Kundtjänstmedarbetare,16,0,0
+b,bank,Ekonomiassistent,5,0,0
+b,balans,Personlig assistent,6,0,0
+b,bagare,Bagare/Konditor,12,0,0
+b,b,Lagerarbetare,5,0,0
+b,b,Distributionsförare,6,0,0
+b,Barcelona,Telefonförsäljare,14,0,0
+b,B,Distributionsförare,10,0,0
+b,B,Lagerarbetare,7,0,0
+b,Barcelona,Kundtjänstmedarbetare,14,0,0
+b,BVC,Distriktssköterska,5,0,0
+b,Bagare,Bagare/Konditor,7,0,0
+c,Chef,Personalchef/HR-chef,10,0,0
+c,Chef,Produktionschef; tillverkning,6,0,0
+c,Chef,Verksamhetschef; hälso- och sjukvård,5,0,0
+c,Café,Servitör/Servitris,5,0,0
+c,Cleaning,Städare/Lokalvårdare,8,0,0
+c,Chef,Gruppledare för kontorspersonal,5,0,0
+c,Cnc,CNC-operatör/FMS-operatör,17,0,0
+c,Cisco,Nätverkstekniker,5,0,0
+c,Chef,Försäljningschef,7,0,0
+c,Chef,Enhetschef; offentlig förvaltning,6,0,0
+c,Chef,Enhetschef; hälso- och sjukvård,9,0,0
+c,Café,Konditoribiträde,5,0,0
+c,Café,Barista/Kaffebartender,5,0,0
+c,Cafe,Servitör/Servitris; kafé och konditori,8,0,0
+c,Cafébiträde,Servitör/Servitris; kafé och konditori,11,0,0
+c,Cad,Byggnadsingenjör,5,0,0
+c,CEVT,Kvalitetsingenjör/-tekniker; maskin,8,0,0
+c,CE,Fjärrbilsförare,5,0,0
+c,CE,Distributionsförare,5,0,0
+c,C#,Systemutvecklare/Programmerare,29,0,0
+c,C#,Mjukvaruutvecklare,6,0,0
+c,Chaufför,Budbilsförare,32,0,0
+c,Chaufför,Bygg- och anläggningsförare,8,0,0
+c,Chaufför,Distributionsförare,104,0,0
+c,Chaufför,Fjärrbilsförare,19,0,0
+c,Chaufför,Lagerarbetare,13,0,0
+c,Chaufför,Liftdumper- och lastväxlarförare,6,0,0
+c,Chaufför,Personbilsförare; persontransporter,7,0,0
+c,Chaufför,Renhållningsförare,9,0,0
+c,Chef,Administrativ chef,14,0,0
+c,Chef,Affärsområdeschef,10,0,0
+c,Chef,CIO; Chief Information Officer/IT-chef,6,0,0
+c,Cafébiträde,Konditoribiträde,11,0,0
+c,Cad,Konstruktör; tillverkningsindustri,10,0,0
+c,c_c körkurt lastbil,Distributionsförare,6,0,0
+c,c#,Systemutvecklare/Programmerare,8,0,0
+c,chef,Enhetschef inom socialtjänst,10,0,0
+c,chef,Enhetschef inom social omsorg,5,0,0
+c,chef,Driftchef; data,5,0,0
+c,chef,CIO; Chief Information Officer/IT-chef,5,0,0
+c,chef,Affärsområdeschef,11,0,0
+c,chef,Administrativ chef,30,0,0
+c,chef,Enhetschef; hälso- och sjukvård,10,0,0
+c,chaufför,Vitvarumontör,6,0,0
+c,chaufför,Specialtransportförare,12,0,0
+c,chaufför,Renhållningsförare,12,0,0
+c,chaufför,Personbilsförare; persontransporter,14,0,0
+c,chaufför,Liftdumper- och lastväxlarförare,13,0,0
+c,chaufför,Lagerarbetare,41,0,0
+c,chaufför,Kranbilsförare,6,0,0
+c,chaufför,Tank- och bulkbilsförare,5,0,0
+c,chaufför,Fjärrbilsförare,45,0,0
+c,chef,Enhetschef; offentlig förvaltning,26,0,0
+c,chef,Produktionschef; tillverkning,10,0,0
+c,Coop,Butikssäljare/Medarbetare; dagligvaror,14,0,0
+c,cosmo,Affärskonsult; IT,7,0,0
+c,coop,Butikssäljare/Medarbetare; dagligvaror,13,0,0
+c,"controller ,adminstär , redovissningsekonom",Controller,5,0,0
+c,content,Marknadskommunikatör,7,0,0
+c,coach,Rekryterare/Rekryteringskonsult,8,0,0
+c,chef,Personalchef/HR-chef,29,0,0
+c,coach,Jobbcoach/Utbildningscoach,16,0,0
+c,cnc,Maskinoperatör; mekanisk verkstad,5,0,0
+c,cnc,CNC-operatör/FMS-operatör,39,0,0
+c,cisco,Nätverkstekniker,7,0,0
+c,chopchop,Servitör/Servitris,6,0,0
+c,chinese,Försäljningsassistent,5,0,0
+c,chef,Verksamhetschef; hälso- och sjukvård,7,0,0
+c,coach,Arbetsterapeut,7,0,0
+c,chaufför,Distributionsförare,229,0,0
+c,chaufför,Cateringarbetare,7,0,0
+c,chaufför,Byggstädare,7,0,0
+c,cafebiträde,Servitör/Servitris; kafé och konditori,5,0,0
+c,cafebiträde,Konditoribiträde,6,0,0
+c,cafe biträde,Kock; à la carte,6,0,0
+c,cafe,Servitör/Servitris; kafé och konditori,26,0,0
+c,cafe,Servitör/Servitris,8,0,0
+c,cafe,Restaurangbiträde,25,0,0
+c,café,Barista/Kaffebartender,13,0,0
+c,cafe,Konditoribiträde,9,0,0
+c,cad,Byggnadsingenjör,9,0,0
+c,c++,Mjukvaruutvecklare,7,0,0
+c,c# .NET,Systemutvecklare/Programmerare,96,0,0
+c,c# .NET,Mjukvaruutvecklare,21,0,0
+c,c# .NET,Frontend-utvecklare,6,0,0
+c,c# .NET,Backend-utvecklare,7,0,0
+c,cad,Konstruktör; tillverkningsindustri,23,0,0
+c,café,Konditoribiträde,11,0,0
+c,café,Restaurangbiträde,11,0,0
+c,café,Servitör/Servitris,8,0,0
+c,chaufför,Bygg- och anläggningsförare,15,0,0
+c,chaufför,Butikssäljare; fackhandel,5,0,0
+c,chaufför,Budbilsförare,105,0,0
+c,chaufför,Bohags- och flyttbilsförare,7,0,0
+c,chaufför,Bilbärgare,5,0,0
+c,chain,Logistikingenjör,5,0,0
+c,chain,Logistiker,7,0,0
+c,chain,Affärskonsult; IT,5,0,0
+c,centrum,Butikssäljare; fackhandel,8,0,0
+c,ce,Distributionsförare,7,0,0
+c,cafébiträde,Servitör/Servitris; kafé och konditori,19,0,0
+c,cafébiträde,Restaurangbiträde,6,0,0
+c,cafébiträde,Konditoribiträde,26,0,0
+c,cafébiträde,Barista/Kaffebartender,7,0,0
+c,café,Servitör/Servitris; kafé och konditori,8,0,0
+c,c chaufför,Renhållningsförare,6,0,0
+c,Coach,Jobbcoach/Utbildningscoach,7,0,0
+d,deltid,Kundtjänstmedarbetare,27,0,0
+d,daglig,Vårdare/Arbetshandledare/Boendestödjare,7,0,0
+d,distans,Lärare i gymnasiet,31,0,0
+d,distans,Lärare i gymnasiet - yrkesämnen,8,0,0
+d,distans,Marknadskonsult,6,0,0
+d,distans,Modersmålslärare i grundskolan,6,0,0
+d,distans,Receptionist; telefonist,5,0,0
+d,distans,SFI-lärare,9,0,0
+d,distans,Universitets- och högskoleadjunkt,6,0,0
+d,distriktssköterska,Distriktssköterska,6,0,0
+d,djur,Djurvårdare,8,0,0
+d,djur,Personlig assistent,8,0,0
+d,doktorand,Doktorand,5,0,0
+d,dutch,Telefonintervjuare,6,0,0
+d,dagis,Barnflicka/Barnvakt,9,0,0
+d,Dygnspass,Personlig assistent,5,0,0
+d,Drifttekniker,Fastighetstekniker/Drifttekniker; fastighet,9,0,0
+d,Djur,Personlig assistent,10,0,0
+d,Djur,Djurvårdare,6,0,0
+d,Dagverksamhet,Undersköterska; hemtjänst och äldreboende,5,0,0
+d,Dalarna,Lärare i förskola/Förskollärare,6,0,0
+d,Danska,Kundtjänstmedarbetare,7,0,0
+d,Dari,Modersmålslärare i grundskolan,6,0,0
+d,Deltid,Butikssäljare/Medarbetare; dagligvaror,9,0,0
+d,Deltid,Butikssäljare; fackhandel,8,0,0
+d,distans,Läkarsekreterare/Vårdadmin/Medicinsk sekreterare,5,0,0
+d,Deltid,Kundtjänstmedarbetare,10,0,0
+d,Deltid,Receptionist; telefonist,6,0,0
+d,Design,Grafisk formgivare,5,0,0
+d,Developer,Mjukvaruutvecklare,5,0,0
+d,Developer,Systemutvecklare/Programmerare,14,0,0
+d,Distans,Läkarsekreterare/Vårdadmin/Medicinsk sekreterare,5,0,0
+d,Distans,Lärare i gymnasiet,6,0,0
+d,Deltid,Personlig assistent,7,0,0
+d,distans,Innesäljare,11,0,0
+d,distans,Universitets- och högskolelektor,8,0,0
+d,distans,Enhetschef inom social omsorg,6,0,0
+d,deltid,Marknadsassistent,9,0,0
+d,distans,Försäkringsrådgivare/Försäkringssäljare,5,0,0
+d,deltid,Lagerarbetare,10,0,0
+d,deltid,Kontorsreceptionist,8,0,0
+d,deltid,Kontorsbiträde,6,0,0
+d,deltid,Ekonomiassistent,25,0,0
+d,deltid,Butikssäljare; fackhandel,18,0,0
+d,deltid,Butikssäljare/Medarbetare; dagligvaror,13,0,0
+d,deltid,Bensinstationsbiträde/Servicebiträde,7,0,0
+d,deltid,Administrativ assistent,45,0,0
+d,deisy's,Butikssäljare; fackhandel,5,0,0
+d,degerfors karlskoga,Personlig assistent,7,0,0
+d,dari,Studie- och yrkesvägledare,6,0,0
+d,dari,Modersmålslärare i grundskolan,12,0,0
+d,dari,Jobbcoach/Utbildningscoach,6,0,0
+d,deltid,Badvakt,5,0,0
+d,danska,Kundtjänstmedarbetare,10,0,0
+d,diskare,Diskare,61,0,0
+d,distans,Besöksbokare/Kundbokare,5,0,0
+d,dansktalande,Kundtjänstmedarbetare,5,0,0
+d,disk,Restaurangbiträde,5,0,0
+d,dhigma,Distributionsförare,6,0,0
+d,developer,Systemutvecklare/Programmerare,7,0,0
+d,deltid,Telefonförsäljare,9,0,0
+d,designer,Grafisk formgivare,6,0,0
+d,deltid,Servitör/Servitris,6,0,0
+d,deltid,Restaurangbiträde,19,0,0
+d,deltid,Receptionist; telefonist,22,0,0
+d,deltid,Personlig assistent,26,0,0
+d,dagtid,Personlig assistent,7,0,0
+d,dagtid,Servitör/Servitris,5,0,0
+d,deltid,Städare/Lokalvårdare,7,0,0
+e,enhetschef,Enhetschef inom social omsorg,7,0,0
+e,ensamkommande,Socialsekreterare,10,0,0
+e,ensamkommande,Behandlingsassistent/Socialpedagog,13,0,0
+e,enhetschef,Enhetschef; offentlig förvaltning,10,0,0
+e,enhetschef,Enhetschef inom socialtjänst,7,0,0
+e,english,Telefonintervjuare,10,0,0
+e,english,Marknadskoordinator,13,0,0
+e,english,Städare/Lokalvårdare,5,0,0
+e,english,Skolassistent,10,0,0
+e,english,Personalutbildare,13,0,0
+e,english,Mjukvaruutvecklare,8,0,0
+e,english,Lärare i gymnasiet,17,0,0
+e,ericsson,Systemutvecklare/Programmerare,5,0,0
+e,english,Systemutvecklare/Programmerare,16,0,0
+e,eriksberg,Personlig assistent,5,0,0
+e,extrajobb,Barnflicka/Barnvakt,8,0,0
+e,eskilstuna,Modersmålslärare/Modersmålspedagog,6,0,0
+e,extrajobb,Lagerarbetare,5,0,0
+e,extrajobb,Eventsäljare/Eventförsäljare,5,0,0
+e,english,Lärare i grundskolan; årskurs 7-9,10,0,0
+e,extra,Restaurangbiträde,6,0,0
+e,extra,Rekryterare/Rekryteringskonsult,6,0,0
+e,extra,Lagerarbetare,9,0,0
+e,extra,Kundtjänstmedarbetare,8,0,0
+e,extra,Butikssäljare; fackhandel,6,0,0
+e,extra,Barnflicka/Barnvakt,6,0,0
+e,export,Internationell säljare,7,0,0
+e,eventpersonal,Eventsäljare/Eventförsäljare,6,0,0
+e,event,Servicehandläggare,5,0,0
+e,event,Projektledare; reklam,7,0,0
+e,event,Eventsäljare/Eventförsäljare,10,0,0
+e,espresso house,Barista/Kaffebartender,5,0,0
+e,eskilstuna,Lagerarbetare,7,0,0
+e,english,Logistiker,7,0,0
+e,english,Försäljningsassistent,15,0,0
+e,english,Kundtjänstmedarbetare,6,0,0
+e,elektriker,Eltekniker,7,0,0
+e,el,Truckförare,5,0,0
+e,el,Elmontör,6,0,0
+e,ekonomiskt,Socialsekreterare,8,0,0
+e,ekonomiansvarig,Redovisningsekonom,13,0,0
+e,ekonomiansvarig,Ekonomichef,9,0,0
+e,ekonomi,Redovisningskonsult,8,0,0
+e,ekonomi,Redovisningsekonom,35,0,0
+e,ekonomi,Förvaltningsekonom,5,0,0
+e,ekonomi,Ekonomichef,6,0,0
+e,ekonomi,Ekonomiassistent,28,0,0
+e,ekonomi,Controller,12,0,0
+e,ekonomi,Administrativ chef,8,0,0
+e,ekonomi,Administrativ assistent,5,0,0
+e,ekonom,Redovisningsekonom,52,0,0
+e,ekonom,Förvaltningsekonom,21,0,0
+e,ekonom,Finansanalytiker,5,0,0
+e,ekonom,Ekonomikonsult,5,0,0
+e,ekonom,Ekonomiassistent,26,0,0
+e,ekonom,Controller,12,0,0
+e,eidar,Hyreskonsulent,6,0,0
+e,eftermiddag,Personlig assistent,7,0,0
+e,e-handel,Systemutvecklare/Programmerare,8,0,0
+e,elektriker,Industrielektriker,8,0,0
+e,elektriker,Installationselektriker,67,0,0
+e,elektriker,Installationstekniker,7,0,0
+e,elektriker,Ledande montör; el,6,0,0
+e,english,Key account manager,6,0,0
+e,english,Internationell säljare,10,0,0
+e,english,Informatör/Kommunikatör,5,0,0
+e,english,HR-konsult/PA-konsult,5,0,0
+e,english,Gruppledare för kontorspersonal,10,0,0
+e,english,Elevassistent,8,0,0
+e,english,Ekonomiassistent,7,0,0
+e,english,Barnflicka/Barnvakt,12,0,0
+e,english,Administrativ assistent,26,0,0
+e,english,Account manager,5,0,0
+e,engelska lärare,Lärare i gymnasiet,5,0,0
+e,english,Kvalitetsingenjör/-tekniker; maskin,6,0,0
+e,engelska,Receptionist; telefonist,9,0,0
+e,engelska,Lärare i grundskolan; årskurs 7-9,30,0,0
+e,engelska,Lärare i grundskolan; årskurs 4-6,12,0,0
+e,engelska,Ekonomiassistent,7,0,0
+e,engelska,Administrativ assistent,17,0,0
+e,embedded,Mjukvaruutvecklare,6,0,0
+e,elkraft,Elkrafttekniker,5,0,0
+e,elkraft,Elingenjör,9,0,0
+e,elkraft,Civilingenjör; elkraft,5,0,0
+e,elevkoordinator,Utbildningskoordinator,11,0,0
+e,elektriker,Serviceelektriker; installation,60,0,0
+e,elektriker,Lärling; installationselektriker,9,0,0
+e,engelska,Lärare i gymnasiet,74,0,0
+e,elgiganten,Butikssäljare; fackhandel,6,0,0
+e,engelska lärare,Lärare i grundskolan; årskurs 1-3,5,0,0
+e,Engelska lärare,Lärare i grundskolan; årskurs 7-9,5,0,0
+e,Elgiganten,Butikssäljare; fackhandel,5,0,0
+e,Engelska,Administrativ assistent,5,0,0
+e,Engelska,Lärare i grundskolan; årskurs 4-6,14,0,0
+e,Engelska,Lärare i grundskolan; årskurs 7-9,11,0,0
+e,Engelska,Lärare i gymnasiet,16,0,0
+e,English,Administrativ assistent,5,0,0
+e,English,Gruppledare för kontorspersonal,5,0,0
+e,English,Kundtjänstmedarbetare,6,0,0
+e,Elektriker lärling,Serviceelektriker; installation,5,0,0
+e,English,Lärare i gymnasiet,5,0,0
+e,Enhetschef,Enhetschef inom social omsorg,9,0,0
+e,Enhetschef,Enhetschef; offentlig förvaltning,11,0,0
+e,Episerver,Systemutvecklare/Programmerare,5,0,0
+e,Event,Eventsäljare/Eventförsäljare,7,0,0
+e,Event,Projektledare; reklam,5,0,0
+e,Event,Teamledare,5,0,0
+e,Extra,Butikssäljare; fackhandel,5,0,0
+e,Extra,Lagerarbetare,5,0,0
+e,English,Skolassistent,5,0,0
+e,Elektriker,Serviceelektriker; installation,27,0,0
+e,Elektriker,Installationselektriker,41,0,0
+e,Ekonom,Controller,13,0,0
+e,Elektriker,Eltekniker,8,0,0
+e,El,Projektledare; bygg och anläggning,5,0,0
+e,El,Elingenjör,5,0,0
+e,Ekonomi,Redovisningsekonom,16,0,0
+e,Ekonomi,Ekonomiassistent,12,0,0
+e,Ekonom,Revisor,6,0,0
+e,Ekonom,Redovisningsekonom,48,0,0
+e,Ekonom,Förvaltningsekonom,5,0,0
+e,Ekonom,Ekonomiassistent,23,0,0
+e,Elektriker,Industrielektriker,9,0,0
+f,fritidspedagog,Lärare i fritidshem/Fritidspedagog,33,0,0
+f,fritidspedagog,Behandlingsassistent/Socialpedagog,5,0,0
+f,fritidslärare,Lärare i fritidshem/Fritidspedagog,6,0,0
+f,fritidsledare,Lärare i fritidshem/Fritidspedagog,11,0,0
+f,fritidsledare,Fritidsledare,5,0,0
+f,french,Kundtjänstmedarbetare,6,0,0
+f,fritids lärare,Lärare i grundskolan; årskurs 4-6,7,0,0
+f,fritids lärare,Lärare i fritidshem/Fritidspedagog,5,0,0
+f,fritids,Lärare i fritidshem/Fritidspedagog,9,0,0
+f,fritid,Lärare i gymnasiet - yrkesämnen,5,0,0
+f,fritid,Lärare i fritidshem/Fritidspedagog,5,0,0
+f,fritidsledare,Behandlingsassistent/Socialpedagog,5,0,0
+f,franska,Receptionist; telefonist,5,0,0
+f,finska,Garantihandläggare,8,0,0
+f,franska,Lärare i gymnasiet,46,0,0
+f,frontend,Frontend-utvecklare,10,0,0
+f,franska,Lärare i grundskolan; årskurs 7-9,107,0,0
+f,franska,Lärare i grundskolan; årskurs 4-6,8,0,0
+f,franska,Departementssekreterare,9,0,0
+f,franska,Cirkelledare/Studiecirkelledare,13,0,0
+f,forskare,Forskarassistent,14,0,0
+f,forex,Valutaförsäljare,17,0,0
+f,forensiker,IT-forensiker,5,0,0
+f,folkhögskola,Folkhögskolelärare,26,0,0
+f,folkhälso*,Forskarassistent,5,0,0
+f,flytt,Barnflicka/Barnvakt,6,0,0
+f,franska,Modersmålslärare/Modersmålspedagog,8,0,0
+f,fysik,Lärare i gymnasiet,13,0,0
+f,förskolan,Barnskötare,5,0,0
+f,förare,Bussförare/Busschaufför,18,0,0
+f,förvaltningsledare,Systemförvaltare,19,0,0
+f,förvaltningsledare,Projektledare; IT,10,0,0
+f,förvaltningsledare,IT-strateg,9,0,0
+f,förvaltare,Fastighetsförvaltare,6,0,0
+f,försörjningsstöd,Socialsekreterare,14,0,0
+f,försäkringskassan,Personlig handläggare; försäkringskassa,48,0,0
+f,försäkringskassan,Försäkringsutredare; försäkringskassa,9,0,0
+f,försvarsmakten,Soldat/Sjöman,5,0,0
+f,förstelärare,Lärare i grundskolan; årskurs 4-6,11,0,0
+f,förskolelärare,Lärare i förskoleklass,7,0,0
+f,förskoleklass,Lärare i förskoleklass,6,0,0
+f,finsktalande,Kundtjänstmedarbetare,12,0,0
+f,fältsäljare,Utesäljare,7,0,0
+f,förskola,Lärare i förskola/Förskollärare,40,0,0
+f,förskola,Barnskötare,29,0,0
+f,företagsekonomi,Universitets- och högskolelektor,5,0,0
+f,företagsekonomi,Universitets- och högskoleadjunkt,5,0,0
+f,förare,Transportchef,6,0,0
+f,förare,Trafikplanerare; transportföretag,5,0,0
+f,förare,Trafikledare; vägtrafik,5,0,0
+f,förare,Taxiförare/Taxichaufför,61,0,0
+f,förare,Soldat/Sjöman,6,0,0
+f,förare,Parkarbetare/Utemiljöarbetare/Miljövärd,6,0,0
+f,förare,Färdtjänstförare,21,0,0
+f,förare,Distributionsförare,21,0,0
+f,förare,Bygg- och anläggningsförare,17,0,0
+f,förskola,Kock; storhushåll,7,0,0
+f,finsktalande,Account manager,8,0,0
+f,finska,Ekonomiassistent,7,0,0
+f,finska,Modersmålslärare/Modersmålspedagog,5,0,0
+f,finska,Innesäljare,13,0,0
+f,Folkhögskola,Folkhögskolelärare,12,0,0
+f,Flytt,Barnflicka/Barnvakt,6,0,0
+f,Finsktalande,Kundtjänstmedarbetare,12,0,0
+f,Finska,Modersmålslärare i grundskolan,5,0,0
+f,finska,Personlig assistent,5,0,0
+f,Finska,Backofficepersonal,5,0,0
+f,Fastighetsskötsel,Fastighetsskötare/Fastighetsarbetare,17,0,0
+f,Farsta,Personlig assistent,9,0,0
+f,Farsta,Idrottsplatsvaktmästare/Idrottsplatsarbetare,6,0,0
+f,Farsta,Frukostvärd/Frukostvärdinna,5,0,0
+f,Farsta,Butikssäljare; fackhandel,8,0,0
+f,Franska,Lärare i grundskolan; årskurs 7-9,20,0,0
+f,Farsta,Butikssäljare/Medarbetare; dagligvaror,7,0,0
+f,Farmaceut,Farmaceut/Apotekare,5,0,0
+f,FRANSKA,Lärare i grundskolan; årskurs 7-9,5,0,0
+f,factory,Innesäljare,5,0,0
+f,fair,Receptionist; telefonist,5,0,0
+f,fakturering,Ekonomiassistent,5,0,0
+f,falun,Dataoperatör,6,0,0
+f,farsta,Brevbärare,7,0,0
+f,farsta,Butikssäljare; fackhandel,8,0,0
+f,farsta,Lagerarbetare,5,0,0
+f,fashion,Butikssäljare; fackhandel,8,0,0
+f,fast,Personlig assistent,11,0,0
+f,finska,Backofficepersonal,5,0,0
+f,Farsta,Brevbärare,6,0,0
+f,Franska,Lärare i gymnasiet,6,0,0
+f,Finska,Kundtjänstmedarbetare,8,0,0
+f,French,Telefonintervjuare,6,0,0
+f,finska,Journalist/Reporter,6,0,0
+f,finska,Kundtjänstmedarbetare,27,0,0
+f,finska,Modersmålslärare i grundskolan,5,0,0
+f,Förvaltningsledare,Systemförvaltare,5,0,0
+f,Försäljning,Utesäljare,8,0,0
+f,Försäljning,Innesäljare,5,0,0
+f,French,Kundtjänstmedarbetare,6,0,0
+f,Försäljning,Account manager,11,0,0
+f,Förstelärare,Lärare i grundskolan; årskurs 4-6,7,0,0
+f,Förskolelärare,Lärare i förskoleklass,6,0,0
+f,Förskola,Lärare i förskoleklass,7,0,0
+f,Förskola,Lärare i förskola/Förskollärare,19,0,0
+f,Förskola,Barnskötare,18,0,0
+f,Fritidspedagog,Lärare i fritidshem/Fritidspedagog,29,0,0
+f,Friluftsfrämjandet,Föreningskonsulent,5,0,0
+f,Försäkringskassan,Personlig handläggare; försäkringskassa,16,0,0
+g,grafisk,Grafisk formgivare,13,0,0
+g,granngården,Butikssäljare/Medarbetare; dagligvaror,7,0,0
+g,grävmaskinist,Grävmaskinförare,7,0,0
+g,göteborg,Butikssäljare; fackhandel,7,0,0
+g,gymnasielärare,Lärare i gymnasiet,24,0,0
+g,gymnasielärare samhällskunskap,Lärare i gymnasiet,7,0,0
+g,gymnasium,Lärare i gymnasiet,7,0,0
+g,göteborg,Administrativ assistent,17,0,0
+g,god assistans,Personlig assistent,5,0,0
+g,göteborg,Kundtjänstmedarbetare,13,0,0
+g,gym,Butikssäljare; fackhandel,6,0,0
+g,gitarr,Musikpedagog/Musiklärare,5,0,0
+g,Göteborg,Lärare i förskola/Förskollärare,7,0,0
+g,gaston,Marknadsförare,5,0,0
+g,Göteborg HiQ,Mjukvaruutvecklare,12,0,0
+g,Göteborg,Personlig assistent,13,0,0
+g,Göteborg,Lärare i fritidshem/Fritidspedagog,5,0,0
+g,göteborg,Städare/Lokalvårdare,7,0,0
+g,Göteborg,Butikssäljare/Medarbetare; dagligvaror,5,0,0
+g,Göteborg,Account manager,7,0,0
+g,Gävleborg,Undersköterska; vård- o specialavd. o mottagning,6,0,0
+g,Gävleborg,Sjukhusstädare,9,0,0
+g,Gävle kommun,Lagerarbetare,7,0,0
+g,Gymnasielärare,Lärare i gymnasiet,8,0,0
+g,geografi,Lärare i gymnasiet,5,0,0
+g,Göteborg,Kontorsreceptionist,6,0,0
+g,guldfynd,Butikssäljare; fackhandel,7,0,0
+h,handläggare,Kundtjänstmedarbetare,13,0,0
+h,hela sverige,Administrativ assistent,5,0,0
+h,hela sverige,Fjärrbilsförare,7,0,0
+h,hela sverige,Lagerarbetare,6,0,0
+h,hela sverige,Nätverkstekniker,10,0,0
+h,hela sverige,Städare/Lokalvårdare,14,0,0
+h,hela sverige,Svetsare; manuell,8,0,0
+h,hela sverige,Truckförare,24,0,0
+h,helg,Butikssäljare; fackhandel,11,0,0
+h,helg,Personlig assistent,16,0,0
+h,helg,Receptionist; telefonist,6,0,0
+h,helg,Restaurangbiträde,5,0,0
+h,hemifrån,Administrativ assistent,5,0,0
+h,hemifrån,Besöksbokare/Kundbokare,23,0,0
+h,hemifrån,Innesäljare,8,0,0
+h,hemifrån,Intervjuare; opinionsundersökning,5,0,0
+h,hemifrån,Kundtjänstmedarbetare,16,0,0
+h,hemifrån,Marknadsanalytiker,5,0,0
+h,hemifrån,Rekryterare/Rekryteringskonsult,6,0,0
+h,hemifrån,Telefonförsäljare,12,0,0
+h,hemifrån,Översättare,9,0,0
+h,hemkunskap,Lärare i grundskolan; årskurs 7-9,7,0,0
+h,hemköp,Butikssäljare/Medarbetare; dagligvaror,6,0,0
+h,hemmakväll,Butikssäljare/Medarbetare; dagligvaror,12,0,0
+h,hemstädare,Städare/Lokalvårdare,6,0,0
+h,hemtjänst,Hemtjänstassistent,5,0,0
+h,hemtjänst,Personlig assistent,6,0,0
+h,hemtjänst,Undersköterska; hemtjänst och äldreboende,27,0,0
+h,hemtjänst,Vårdbiträde,10,0,0
+h,hemtjänsten,Undersköterska; hemtjänst och äldreboende,7,0,0
+h,hela land,Svetsare; manuell,16,0,0
+h,hiss,Lärling; installationselektriker,5,0,0
+h,hela Sverige,Biomedicinsk analytiker,13,0,0
+h,handläggare,Utbildningshandläggare,11,0,0
+h,Hässelby,Personlig assistent,7,0,0
+h,Hägersten,Personlig assistent,12,0,0
+h,Hägersten,Lärare i förskola/Förskollärare,5,0,0
+h,Hvb,Socionom,6,0,0
+h,Hvb,Behandlingsassistent/Socialpedagog,21,0,0
+h,Hund,Personlig assistent,22,0,0
+h,Huddinge.,Sjuksköterska; grundutbildad,5,0,0
+h,Hr,Rekryterare/Rekryteringskonsult,6,0,0
+h,Hr,Personalchef/HR-chef,8,0,0
+h,Hr,Personalansvarig,10,0,0
+h,Hr,Personaladministratör/Personalassistent,14,0,0
+h,Hr,HR-specialist/HR-adviser,41,0,0
+h,Hr,HR-konsult/PA-konsult,30,0,0
+h,Hr,HR-assistent,12,0,0
+h,Hr,Administrativ assistent,5,0,0
+h,hR,HR-konsult/PA-konsult,7,0,0
+h,hR,HR-specialist/HR-adviser,6,0,0
+h,halland,Läkarsekreterare/Vårdadmin/Medicinsk sekreterare,6,0,0
+h,halland,Samhällsplanerare,6,0,0
+h,handledare,Handläggare/Utredare; offentlig förvaltning,5,0,0
+h,handledare,Jobbcoach/Utbildningscoach,17,0,0
+h,handläggare,Administrativ assistent,11,0,0
+h,handläggare,Administrativ utvecklare,5,0,0
+h,handläggare,Departementssekreterare,14,0,0
+h,handläggare,Handläggare/Utredare; offentlig förvaltning,59,0,0
+h,handläggare,Institutionssekreterare,6,0,0
+h,Historia,Lärare i gymnasiet,11,0,0
+h,handläggare,Personlig handläggare; försäkringskassa,27,0,0
+h,handläggare,Socialsekreterare,7,0,0
+h,handläggare MUCF,Handläggare/Utredare; offentlig förvaltning,5,0,0
+h,hiss,Teamledare,5,0,0
+h,hemifrån,Marknadsundersökare,5,0,0
+h,hotell,Frukostvärd/Frukostvärdinna,6,0,0
+h,Hemstädning,Städare/Lokalvårdare,7,0,0
+h,Hemkunskapslärare,Lärare i grundskolan; årskurs 7-9,5,0,0
+h,Hemifrån,Telefonförsäljare,13,0,0
+h,Hemifrån,Rekryterare/Rekryteringskonsult,5,0,0
+h,Hemifrån,Marknadsanalytiker,5,0,0
+h,Hemifrån,Kundtjänstmedarbetare,19,0,0
+h,Hemifrån,Innesäljare,6,0,0
+h,Hemifrån,Besöksbokare/Kundbokare,13,0,0
+h,Hemifrån,Administrativ assistent,6,0,0
+h,Helg,Personlig assistent,13,0,0
+h,Helg,Butikssäljare; fackhandel,6,0,0
+h,Hela sverige,Trädgårdsarbetare/Plantskolearbetare; trädgård,6,0,0
+h,historia,Lärare i gymnasiet,12,0,0
+h,Hela Sverige,Biomedicinsk analytiker,12,0,0
+h,Hemtjänst,Undersköterska; hemtjänst och äldreboende,24,0,0
+h,Haninge,Lärare i förskola/Förskollärare,7,0,0
+h,Handläggare,Handläggare/Utredare; offentlig förvaltning,7,0,0
+h,Handläggare,Administrativ assistent,5,0,0
+h,Halland,Kommunikationstekniker,7,0,0
+h,HVB,Vårdare/Arbetshandledare/Boendestödjare,5,0,0
+h,HR administratör,Administrativ assistent,5,0,0
+h,HR,Rekryterare/Rekryteringskonsult,18,0,0
+h,HR,Personalchef/HR-chef,21,0,0
+h,HR,Personalansvarig,14,0,0
+h,HR,Personaladministratör/Personalassistent,5,0,0
+h,HR,HR-specialist/HR-adviser,81,0,0
+h,HR,HR-konsult/PA-konsult,72,0,0
+h,HR,HR-assistent,22,0,0
+h,HR,Controller,5,0,0
+h,HR,Administrativ chef,6,0,0
+h,Handläggare,Personlig handläggare; försäkringskassa,7,0,0
+h,Herrängens,Lärare i grundskolan; årskurs 1-3,5,0,0
+h,Hela Sverige,Servitör/Servitris,5,0,0
+h,hästskötare,Barnskötare,12,0,0
+h,hållbarhet,Administrativ assistent,6,0,0
+h,hotell,Hovmästare,5,0,0
+h,hotell,Nattreceptionist/Nattportier,6,0,0
+h,hotell,Servitör/Servitris,18,0,0
+h,housekeeping,Hotellstädare,5,0,0
+h,hr,Administrativ assistent,5,0,0
+h,hr,Administrativ chef,7,0,0
+h,hr,HR-assistent,28,0,0
+h,hr,HR-konsult/PA-konsult,65,0,0
+h,hr,HR-specialist/HR-adviser,103,0,0
+h,hr,Handläggare/Utredare; offentlig förvaltning,5,0,0
+h,hr,Löneadministratör,8,0,0
+h,hr,Personaladministratör/Personalassistent,32,0,0
+h,hr,Personalansvarig,9,0,0
+h,hotell,Hotellreceptionist,15,0,0
+h,hr,Rekryterare/Rekryteringskonsult,20,0,0
+h,hr,Personalchef/HR-chef,15,0,0
+h,hälsa,Lärare i gymnasiet,6,0,0
+h,hvb,Vårdare/Arbetshandledare/Boendestödjare,16,0,0
+h,hvb,Socionom,12,0,0
+h,hvb,Socialsekreterare,6,0,0
+h,hvb,Behandlingsassistent/Socialpedagog,40,0,0
+h,hus snickare,Träarbetare/Snickare,8,0,0
+h,häst,Personlig assistent,5,0,0
+h,hund,Personlig assistent,17,0,0
+h,hund,Hundskötare/Hundvårdare,11,0,0
+h,hund,Hundförare,6,0,0
+h,humana,Personlig assistent,13,0,0
+h,hultsfred,Personlig assistent,5,0,0
+h,hunddagis,Hundskötare/Hundvårdare,8,0,0
+i,Ingen arbetslivserfarenhet,Butikssäljare/Medarbetare; dagligvaror,10,0,0
+i,Ingen arbetslivserfarenhet,Butikssäljare; fackhandel,23,0,0
+i,Ingen arbetslivserfarenhet,Lagerarbetare,36,0,0
+i,Ingen arbetslivserfarenhet,Personlig assistent,22,0,0
+i,It-tekniker,Helpdesktekniker/Supporttekniker,6,0,0
+i,Ingen arbetslivserfarenhet,Terminalarbetare,5,0,0
+i,Invandrare,SFI-lärare,6,0,0
+i,Insitepart,Lagerarbetare,5,0,0
+i,It,Helpdesktekniker/Supporttekniker,11,0,0
+i,It,IT-tekniker/Datatekniker,13,0,0
+i,It,Systemutvecklare/Programmerare,10,0,0
+i,Ingelstad,Lärare i prakt./estet och annat ämne,6,0,0
+i,Ingenjör,Systemutvecklare/Programmerare,6,0,0
+i,Ikea,Lagerarbetare,5,0,0
+i,Ica,Avdelningschef; butik,8,0,0
+i,Idrottslärare,Lärare i grundskolan; årskurs 7-9,9,0,0
+i,Idrottslärare,Lärare i grundskolan; årskurs 4-6,10,0,0
+i,Idrott,Lärare i grundskolan; årskurs 4-6,6,0,0
+i,Ica,Lagerarbetare,10,0,0
+i,Ica,Butikssäljare/Medarbetare; dagligvaror,61,0,0
+i,IT,Systemutvecklare/Programmerare,26,0,0
+i,IT,Systemförvaltare,5,0,0
+i,IT,IT-tekniker/Datatekniker,31,0,0
+i,IT,IT-strateg,5,0,0
+i,IT,Helpdesktekniker/Supporttekniker,30,0,0
+i,IT,Drifttekniker; data,6,0,0
+i,ICA,Butikssäljare/Medarbetare; dagligvaror,13,0,0
+i,It-tekniker,IT-tekniker/Datatekniker,5,0,0
+i,Idrottslärare,Lärare i gymnasiet,15,0,0
+i,inwido,Lagerarbetare,5,0,0
+i,inköp,Inköpare,12,0,0
+i,idrott,Lärare i grundskolan; årskurs 7-9,12,0,0
+i,i,Lärare i grundskolan; årskurs 7-9,48,0,0
+i,i,Lärare i grundskolan; årskurs 4-6,21,0,0
+i,i,Lagerarbetare,8,0,0
+i,istqb,Systemtestare,9,0,0
+i,it,Account manager,6,0,0
+i,it,Administrativ assistent,6,0,0
+i,it,Driftledare; IT,6,0,0
+i,it,Drifttekniker; data,7,0,0
+i,it,Helpdesktekniker/Supporttekniker,84,0,0
+i,it,IT-samordnare,5,0,0
+i,it,IT-strateg,14,0,0
+i,it,IT-tekniker/Datatekniker,37,0,0
+i,it,Nätverkstekniker,5,0,0
+i,it,Projektledare; IT,11,0,0
+i,it,Systemadministratör,8,0,0
+i,it,Systemansvarig,5,0,0
+i,it,Systemförvaltare,7,0,0
+i,it,Systemutvecklare/Programmerare,8,0,0
+i,it,Säkerhetsadministratör; IT,6,0,0
+i,it support,Helpdesktekniker/Supporttekniker,5,0,0
+i,it tekniker,IT-tekniker/Datatekniker,8,0,0
+i,italienska,Lärare i gymnasiet,9,0,0
+i,iws,Svetsare; manuell,8,0,0
+i,i,Lärare i gymnasiet,33,0,0
+i,i,Modersmålslärare i grundskolan,15,0,0
+i,i,Lärare i grundskolan; årskurs 1-3,6,0,0
+i,i,Restaurangbiträde,5,0,0
+i,ingenjör,Vägingenjör,5,0,0
+i,ingenjör,VVS-ingenjör,6,0,0
+i,ingenjör,Systemutvecklare/Programmerare,5,0,0
+i,ingenjör,Mjukvaruutvecklare,11,0,0
+i,ingenjör,Medicinteknisk ingenjör,5,0,0
+i,ingenjör,Konstruktör; tillverkningsindustri,7,0,0
+i,informationssäkerhet,Säkerhetsansvarig; IT,6,0,0
+i,industriarbetare,Packare,8,0,0
+i,i,Personlig assistent,6,0,0
+i,industriarbetare,Maskinoperatör; mekanisk verkstad,21,0,0
+i,industri,Montör; metallprodukter,6,0,0
+i,illustrator,Grafisk formgivare,6,0,0
+i,industriarbetare,Montör; metallprodukter,7,0,0
+i,idrottslärare,Lärare i prakt./estet och annat ämne,6,0,0
+i,ica,Butikssäljare/Medarbetare; dagligvaror,54,0,0
+i,ikea,Lagerarbetare,6,0,0
+i,ideella organisationer,Administrativ assistent,7,0,0
+i,idrott,Lärare i grundskolan; årskurs 4-6,11,0,0
+i,ica,Lagerarbetare,5,0,0
+i,idrottslärare,Lärare i grundskolan; årskurs 1-3,7,0,0
+i,idrottslärare,Lärare i grundskolan; årskurs 4-6,12,0,0
+i,idrottslärare,Lärare i grundskolan; årskurs 7-9,12,0,0
+i,idrottslärare,Lärare i gymnasiet,32,0,0
+i,idrott,Lärare i gymnasiet,20,0,0
+j,jurist,Affärsjurist,26,0,0
+j,java programmerare,Systemutvecklare/Programmerare,6,0,0
+j,japan,VD-sekreterare,5,0,0
+j,japanska,Servitör/Servitris,5,0,0
+j,japanska,Utbildningsadministratör/Utbildningssekreterare,5,0,0
+j,java,Applikationsutvecklare/Apputvecklare,6,0,0
+j,java,Mjukvaruutvecklare,15,0,0
+j,java,Systemtestare,5,0,0
+j,java,Systemutvecklare/Programmerare,68,0,0
+j,java myndighet,Systemutvecklare/Programmerare,5,0,0
+j,javascript,Systemutvecklare/Programmerare,8,0,0
+j,jurist,Arbetsrättsjurist,10,0,0
+j,jobb,Distributionsförare,5,0,0
+j,Järfälla,Sjuksköterska; grundutbildad,9,0,0
+j,jurist,Advokat,21,0,0
+j,jönköping,Lagerarbetare,15,0,0
+j,jönköping,Administrativ assistent,7,0,0
+j,järna,Truckförare,7,0,0
+j,järna,Personlig assistent,5,0,0
+j,jysk,Butikschef,5,0,0
+j,jurist,Verksjurist,8,0,0
+j,jurist,Utvecklingschef,5,0,0
+j,jurist,Upphandlare,6,0,0
+j,jurist,Organisationsjurist,13,0,0
+j,jurist,Kommunjurist,12,0,0
+j,Jurist,Utvecklingschef,5,0,0
+j,jurist,Juristassistent/Paralegal,16,0,0
+j,jurist,Juridisk ombudsman,6,0,0
+j,jurist,Förvaltningsjurist,9,0,0
+j,jurist,Försäkringstjänsteman,6,0,0
+j,jurist,Företagsjurist,5,0,0
+j,jurist,Fastighetsjurist,7,0,0
+j,jurist,Familjerättsjurist,55,0,0
+j,jurist,Budget- och skuldrådgivare,6,0,0
+j,jurist,Boutredare,6,0,0
+j,jurist,Bolagsjurist,39,0,0
+j,jurist,Biträdande jurist,102,0,0
+j,jurist,Assessor,5,0,0
+j,jobb,Arbetsledare; anläggning,5,0,0
+j,jurist,Jurist; allmän domstol,25,0,0
+j,Jurist,Miljöjurist,5,0,0
+j,jurist,Handläggare/Utredare; offentlig förvaltning,29,0,0
+j,Jurist,Juristassistent/Paralegal,11,0,0
+j,jobb,Lärare i grundskolan; årskurs 4-6,12,0,0
+j,Jurist,Kvalificerad skattehandläggare,6,0,0
+j,jobb,Personlig assistent,11,0,0
+j,jobb,Sjuksköterska; grundutbildad,12,0,0
+j,jobb utan erfarenhet,Kundtjänstmedarbetare,8,0,0
+j,jobbcoach,Jobbcoach/Utbildningscoach,7,0,0
+j,jollyroom,Copywriter,5,0,0
+j,junior,Administrativ assistent,10,0,0
+j,junior,Ekonomiassistent,7,0,0
+j,junior,Systemtestare,5,0,0
+j,junior,Systemutvecklare/Programmerare,27,0,0
+j,juridik,Handläggare/Utredare; offentlig förvaltning,8,0,0
+j,jurist,Administrativ chef,5,0,0
+j,Java,Systemutvecklare/Programmerare,19,0,0
+j,Junior,Ekonomiassistent,5,0,0
+j,junior,Mjukvaruutvecklare,5,0,0
+j,Jurist,Affärsjurist,11,0,0
+j,Juridik,Lärare i gymnasiet,5,0,0
+j,Jurist,Jurist; allmän domstol,15,0,0
+j,Jurist,Handläggare/Utredare; offentlig förvaltning,15,0,0
+j,Jurist,Företagsjurist,5,0,0
+j,Jurist,Fastighetsjurist,6,0,0
+j,Jurist,Försäkringsjurist,6,0,0
+j,Jurist,Departementssekreterare,7,0,0
+j,Jurist,Bolagsjurist,14,0,0
+j,Jurist,Biträdande jurist,49,0,0
+j,Jurist,Familjerättsjurist,20,0,0
+k,koordinator,Administrativ assistent,9,0,0
+k,kopparberg,Personlig assistent,6,0,0
+k,konsultchef,Rekryterare/Rekryteringskonsult,16,0,0
+k,kontorsassistent,Kontorsreceptionist,10,0,0
+k,kontorsassistent,Administrativ assistent,12,0,0
+k,kontakt person,Städare/Lokalvårdare,17,0,0
+k,kontakt person,Personlig assistent,21,0,0
+k,konsumentkunskap,Lärare i grundskolan; årskurs 7-9,11,0,0
+k,konsultchef,Personalchef/HR-chef,16,0,0
+k,konstruktör,Maskinkonstruktör,5,0,0
+k,konsultchef,Personalansvarig,9,0,0
+k,konsultchef,HR-konsult/PA-konsult,11,0,0
+k,konsultchef,Affärsområdeschef,5,0,0
+k,kommunikatör,Informatör/Kommunikatör,36,0,0
+k,kommunikatör,Kommunikationsstrateg,5,0,0
+k,konferens,Konferensvärd/Konferensvärdinna,9,0,0
+k,konstruktör,Civilingenjör; konstruktion; maskin,5,0,0
+k,kopparberg,Städare/Lokalvårdare,7,0,0
+k,konstruktör,Konstruktör; tillverkningsindustri,14,0,0
+k,kommunikation,Marknadskommunikatör,7,0,0
+k,kriminalvården,Kriminalvårdare,9,0,0
+k,kvalitetsstrateg,Kvalitetssamordnare,6,0,0
+k,kronan konsult,Socionom,7,0,0
+k,körkort,Lagerarbetare,6,0,0
+k,körkort,Distributionsförare,9,0,0
+k,körkort,Budbilsförare,6,0,0
+k,köksbiträde,Köksbiträde,7,0,0
+k,kök,Utesäljare,6,0,0
+k,kommun trellborg,Städare/Lokalvårdare,23,0,0
+k,kök,Restaurangbiträde,8,0,0
+k,kök,Kock; à la carte,5,0,0
+k,kök,Kock; storhushåll,9,0,0
+k,krisberedskap,Säkerhetsrådgivare,5,0,0
+k,kväll,Personlig assistent,46,0,0
+k,kundtjänst,Kundtjänstmedarbetare,80,0,0
+k,kundtjänst,Helpdesktekniker/Supporttekniker,5,0,0
+k,kundtj*,Kundtjänstmedarbetare,21,0,0
+k,kundsupport,Kundtjänstmedarbetare,30,0,0
+k,kundsupport,Ekonomiassistent,5,0,0
+k,kundservicemedarbetare,Kundtjänstmedarbetare,8,0,0
+k,kundservice,Kundtjänstmedarbetare,34,0,0
+k,kundresurs,Jobbcoach/Utbildningscoach,6,0,0
+k,ksometika,Innesäljare,13,0,0
+k,kundtjänst,Truckförare,6,0,0
+k,kommun,Vårdbiträde,7,0,0
+k,king,Restaurangbiträde,14,0,0
+k,kommun,Undersköterska; hemtjänst och äldreboende,27,0,0
+k,kock,Chefskock,7,0,0
+k,klarinett,Musikpedagog/Musiklärare,7,0,0
+k,kinesiska,Utbildningsadministratör/Utbildningssekreterare,5,0,0
+k,kinesiska,Orderadministratör,5,0,0
+k,kinesiska,Officer,10,0,0
+k,kinesiska,Kundtjänstmedarbetare,8,0,0
+k,kinesiska,Internationell säljare,8,0,0
+k,kinesiska,Inköpsassistent,5,0,0
+k,kinesiska,Informationssekreterare,8,0,0
+k,kinesiska,Helpdesktekniker/Supporttekniker,5,0,0
+k,kinesiska,Butiksansvarig,7,0,0
+k,kinesiska,Administrativ assistent,6,0,0
+k,kemi*,Lärare i gymnasiet,6,0,0
+k,kemi,Lärare i gymnasiet,12,0,0
+k,kakel,Plattsättare,13,0,0
+k,kassör,Butikssäljare; fackhandel,7,0,0
+k,kbt,Kurator,5,0,0
+k,kbt,Psykolog,9,0,0
+k,kemi,Kemist,7,0,0
+k,kock,Kock; storhushåll,228,0,0
+k,kock,Kock; à la carte,399,0,0
+k,kock,Köksbiträde,12,0,0
+k,kock,Kökschef,15,0,0
+k,kommun,Städare/Lokalvårdare,7,0,0
+k,kommun,Specialpedagog,14,0,0
+k,kommun,Socialsekreterare,7,0,0
+k,kommun,Samtalsterapeut,5,0,0
+k,kommun,Personlig assistent,7,0,0
+k,kommun,Nämndsekreterare,5,0,0
+k,kommun,Lärare i gymnasiet,9,0,0
+k,kommun,Lärare i grundskolan; årskurs 7-9,23,0,0
+k,kommun,Lärare i grundskolan; årskurs 4-6,15,0,0
+k,kommun,Vårdare/Arbetshandledare/Boendestödjare,7,0,0
+k,kommun,Lärare i grundskolan; årskurs 1-3,9,0,0
+k,kommun,Lärare i fritidshem/Fritidspedagog,15,0,0
+k,kommun,Kock; storhushåll,5,0,0
+k,kommun,Elevassistent,13,0,0
+k,kommun,Barnskötare,9,0,0
+k,kommun,Administrativ assistent,14,0,0
+k,kolmården,Restaurangbiträde,6,0,0
+k,kokerska,Kock; storhushåll,5,0,0
+k,kock,Specialkock,50,0,0
+k,kock,Restaurangbiträde,6,0,0
+k,kommun,Lärare i förskola/Förskollärare,15,0,0
+k,kakel,Butikssäljare; fackhandel,26,0,0
+k,kinesiska,Översättare,8,0,0
+k,KBT,Psykolog,5,0,0
+k,Kurator,Kurator,6,0,0
+k,Kungsängen,Redovisningsekonom,5,0,0
+k,Kundtjänst,Kundtjänstmedarbetare,21,0,0
+k,Kundsupport,Kundtjänstmedarbetare,7,0,0
+k,Kundservicemedarbetare,Kundtjänstmedarbetare,17,0,0
+k,Kundservice,Kundtjänstmedarbetare,22,0,0
+k,Koordinator,Administrativ assistent,10,0,0
+k,Konsultchef,Rekryterare/Rekryteringskonsult,6,0,0
+k,Konsultchef,Personalchef/HR-chef,9,0,0
+k,Konsultchef,Personalansvarig,6,0,0
+k,Konsultchef,HR-konsult/PA-konsult,6,0,0
+k,Konstruktör,Konstruktör; tillverkningsindustri,6,0,0
+k,Kontor,Administrativ assistent,5,0,0
+k,Kommunikatör,Informatör/Kommunikatör,16,0,0
+k,Konstruktör,Civilingenjör; konstruktion; maskin,5,0,0
+k,Karlstad kommun,Städare/Lokalvårdare,5,0,0
+k,Kemi,Lärare i gymnasiet,7,0,0
+k,Kinesiska,Inköpsassistent,8,0,0
+k,King,Restaurangbiträde,5,0,0
+k,Kista,Ekonomiassistent,16,0,0
+k,KMA,Byggnadsingenjör,5,0,0
+k,Kock,Kock; à la carte,131,0,0
+k,Kock,Kökschef,5,0,0
+k,Kock,Lärare i förskola/Förskollärare,7,0,0
+k,Kock,Specialkock,12,0,0
+k,Kock,Kock; storhushåll,79,0,0
+l,läkemedel,Forskare; farmakologi,5,0,0
+l,läkemedel,Farmaceut/Receptarie,25,0,0
+l,läkemedel,Farmaceut/Apotekare,10,0,0
+l,läkemedel,Distriktssköterska,7,0,0
+l,läkemedel,Biomedicinsk analytiker,5,0,0
+l,läkemedel,Analytisk kemist,8,0,0
+l,lunch,Servitör/Servitris,6,0,0
+l,lunchkock,Kock; à la carte,7,0,0
+l,lunch,Kock; à la carte,13,0,0
+l,luleå,Lärare i grundskolan; årskurs 7-9,7,0,0
+l,luga,Marknadsförare,5,0,0
+l,läkare,ST-läkare,8,0,0
+l,läkemedel,Kemist,7,0,0
+l,lärare,Lärare i förskoleklass,11,0,0
+l,läkemedel,Maskinoperatör; läkemedel,6,0,0
+l,läkemedel,Processingenjör; kemiteknik,11,0,0
+l,läkemedel,Sjuksköterska; grundutbildad,15,0,0
+l,läkemedel,Undersköterska; hemtjänst och äldreboende,8,0,0
+l,läkemedel,Undersköterska; vård- o specialavd. o mottagning,5,0,0
+l,läkemedel,Valideringsingenjör,5,0,0
+l,lärare,Administrativ assistent,8,0,0
+l,lärare,Administrativ chef,6,0,0
+l,lärare,Elevassistent,8,0,0
+l,lärare,Folkhögskolelärare,11,0,0
+l,lärare,Lärare i fritidshem/Fritidspedagog,29,0,0
+l,lärare,Lärare i förskola/Förskollärare,9,0,0
+l,lss boende,Personlig assistent,5,0,0
+l,läkemedel,Lagerarbetare,7,0,0
+l,lokalvårdare,Städare/Lokalvårdare,49,0,0
+l,lidl,Butikssäljare/Medarbetare; dagligvaror,31,0,0
+l,logistikpersonal,Handpaketerare,6,0,0
+l,lager,Arbetsledare; lager,5,0,0
+l,lager,Lagerarbetare,71,0,0
+l,lager,Truckförare,9,0,0
+l,lageransvarig,Arbetsledare; lager,5,0,0
+l,lagerarbetare,Lagerarbetare,10,0,0
+l,lagerarbete,Lagerarbetare,40,0,0
+l,lagermedarbetare,Lagerarbetare,27,0,0
+l,lastbilschaufför,Distributionsförare,7,0,0
+l,lediga jobb,Lagerarbetare,5,0,0
+l,lediga jobb,Personlig assistent,9,0,0
+l,lernia,Administrativ chef,22,0,0
+l,lernia,Personalchef/HR-chef,7,0,0
+l,lernia,SFI-lärare,6,0,0
+l,lettiska,Personalansvarig,7,0,0
+l,lexman,Butikssäljare/Medarbetare; dagligvaror,8,0,0
+l,"lidingö, stockholm",Konferensvärd/Konferensvärdinna,6,0,0
+l,lärare,Lärare i grundskolan; årskurs 1-3,114,0,0
+l,linköpings,Lärare i grundskolan; årskurs 7-9,6,0,0
+l,linköpings kommun,Lärare i grundskolan; årskurs 7-9,6,0,0
+l,linux,Helpdesktekniker/Supporttekniker,7,0,0
+l,linux,IT-tekniker/Datatekniker,6,0,0
+l,linux,Systemadministratör,18,0,0
+l,linux,Systemutvecklare/Programmerare,11,0,0
+l,litauiska,Modersmålslärare i grundskolan,5,0,0
+l,logistik,Administrativ assistent,7,0,0
+l,logistik,Arbetsledare; lager,5,0,0
+l,logistik,Logistiker,7,0,0
+l,lokalvård,Städare/Lokalvårdare,7,0,0
+l,lärare,Lärare i grundskolan; årskurs 4-6,219,0,0
+l,läkemedel,Handläggare/Utredare; offentlig förvaltning,6,0,0
+l,lärare,Lärare i gymnasiet,214,0,0
+l,Lärare i spanska,Lärare i grundskolan; årskurs 7-9,6,0,0
+l,Lärare,Speciallärare,10,0,0
+l,Lärare,SFI-lärare,25,0,0
+l,Lärare,Lärare i praktiska och estetiska ämnen,5,0,0
+l,Lärare,Lärare i gymnasiet - yrkesämnen,6,0,0
+l,Lärare,Lärare i gymnasiet,71,0,0
+l,Lärare,Lärare i grundskolan; årskurs 4-6,89,0,0
+l,Lärare,Lärare i grundskolan; årskurs 1-3,36,0,0
+l,Lärare,Folkhögskolelärare,5,0,0
+l,Lund,Personlig assistent,5,0,0
+l,Lunch,Kock; à la carte,10,0,0
+l,Lss,Vårdare/Arbetshandledare/Boendestödjare,6,0,0
+l,Lärare mot fritidshem,Lärare i fritidshem/Fritidspedagog,18,0,0
+l,Lss,Personlig assistent,10,0,0
+l,Lokalvårdare,Städare/Lokalvårdare,30,0,0
+l,Logistik,Logistiker,5,0,0
+l,Liten,Barnskötare,5,0,0
+l,Lila,Personlig assistent,7,0,0
+l,Lidl,Butikssäljare/Medarbetare; dagligvaror,6,0,0
+l,Lediga,Lärare i grundskolan; årskurs 4-6,10,0,0
+l,Lastbilschaufför,Distributionsförare,6,0,0
+l,Lagermedarbetare,Lagerarbetare,6,0,0
+l,Lagerarbetare,Lagerarbetare,10,0,0
+l,Lager,Lagerarbetare,23,0,0
+l,LSS,Personlig assistent,11,0,0
+l,lärare,Lärare i grundskolan; årskurs 7-9,402,0,0
+l,London,Barnskötare,6,0,0
+l,Lön,Löneadministratör,11,0,0
+l,Lärare,Lärare i grundskolan; årskurs 7-9,92,0,0
+l,lärare,Specialpedagog,18,0,0
+l,lärare,Lärare i gymnasiet - yrkesämnen,50,0,0
+l,lärare,Lärare i praktiska och estetiska ämnen,18,0,0
+l,lärare,Modersmålslärare i grundskolan,9,0,0
+l,lärare,SFI-lärare,112,0,0
+l,lärare,Speciallärare,18,0,0
+l,lärare arabiska,Lärare i grundskolan; årskurs 4-6,6,0,0
+l,lärare i spanska,Lärare i grundskolan; årskurs 7-9,19,0,0
+l,lärare matematik,Lärare i gymnasiet,14,0,0
+l,lärare mot fritidshem,Lärare i fritidshem/Fritidspedagog,7,0,0
+l,lärares assistent,Personlig assistent,7,0,0
+l,lärling,Träarbetare/Snickare,6,0,0
+l,lärling,VVS-montör,9,0,0
+l,lärling elinstallation,Installationselektriker,7,0,0
+l,läxhjälp,Studieledare,16,0,0
+l,lönekonsult,Löneadministratör,5,0,0
+m,museum,Museipedagog/Museilärare,10,0,0
+m,modersmålslärare,Modersmålslärare i grundskolan,21,0,0
+m,montessori,Barnskötare,8,0,0
+m,montessori,Lärare i förskola/Förskollärare,7,0,0
+m,montör,Fordonsmontör,21,0,0
+m,montör,Kabelmontör; elkraft,5,0,0
+m,museum,Projektledare: kultur; media; film,9,0,0
+m,montör,Maskinmontör,5,0,0
+m,montör,Montör; el- och teleutrustning,10,0,0
+m,montör,Montör; metallprodukter,64,0,0
+m,montör,Montör; träprodukter,6,0,0
+m,mtr städare,Städare/Lokalvårdare,5,0,0
+m,munka,Redovisningsekonom,5,0,0
+m,museum,Dekoratör,5,0,0
+m,musik,Lärare i fritidshem/Fritidspedagog,7,0,0
+m,montör,Montör; gummi- och plastprodukter,8,0,0
+m,musik,Lärare i förskola/Förskollärare,8,0,0
+m,musik,Lärare i gymnasiet,7,0,0
+m,musik,Lärare i grundskolan; årskurs 4-6,22,0,0
+m,musik,Lärare i grundskolan; årskurs 7-9,32,0,0
+m,musik,Musikpedagog/Musiklärare,15,0,0
+m,musik,Personlig assistent,39,0,0
+m,musiklärare,Lärare i grundskolan; årskurs 4-6,5,0,0
+m,musiklärare,Lärare i praktiska och estetiska ämnen,7,0,0
+m,mynanny,Barnflicka/Barnvakt,7,0,0
+m,myndighet,Administrativ assistent,9,0,0
+m,myndighet,Handläggare/Utredare; offentlig förvaltning,8,0,0
+m,märsta,Restaurangbiträde,11,0,0
+m,modersmål,Modersmålslärare/Modersmålspedagog,6,0,0
+m,målare,Målare,11,0,0
+m,mölnlycke,Innesäljare,5,0,0
+m,mötesbokare,Besöksbokare/Kundbokare,19,0,0
+m,mötesbokare,Innesäljare,6,0,0
+m,musik,Lärare i praktiska och estetiska ämnen,8,0,0
+m,musik,Lärare i grundskolan; årskurs 1-3,11,0,0
+m,moda,Butikssäljare; fackhandel,5,0,0
+m,markt,Butikssäljare; fackhandel,5,0,0
+m,mindark,Helpdesktekniker/Supporttekniker,5,0,0
+m,manuell testare,Systemtestare,10,0,0
+m,manpower,Lagerarbetare,5,0,0
+m,manpower,Administrativ assistent,8,0,0
+m,manager,Projektledare; IT,5,0,0
+m,manager,Kontorsreceptionist,7,0,0
+m,manager,Driftledare; IT,5,0,0
+m,manager,Account manager,7,0,0
+m,malung,Biträdande rektor,5,0,0
+m,malmö län,Informatör/Kommunikatör,5,0,0
+m,malmö,Personlig assistent,5,0,0
+m,malmö,Lärare i förskola/Förskollärare,8,0,0
+m,malmö,Lagerarbetare,44,0,0
+m,majorna,Personlig assistent,5,0,0
+m,ma,Lärare i grundskolan; årskurs 7-9,21,0,0
+m,mötesbokare,Telefonförsäljare,15,0,0
+m,maskinoperatör,Maskinoperatör; mekanisk verkstad,5,0,0
+m,matematik,Lärare i grundskolan; årskurs 4-6,13,0,0
+m,matematik,Lärare i grundskolan; årskurs 7-9,61,0,0
+m,matematik,Lärare i gymnasiet,72,0,0
+m,miljö*,Miljöhandläggare,5,0,0
+m,migrationsverket,Handläggare/Utredare; offentlig förvaltning,20,0,0
+m,migration,Forskarassistent,7,0,0
+m,mekaniker,Underhållsmekaniker,5,0,0
+m,mekaniker,Montör; metallprodukter,7,0,0
+m,mekaniker,Fordonstekniker/Bilmekaniker/Personbilsmekaniker,9,0,0
+m,media,Butikssäljare; fackhandel,5,0,0
+m,mio,Lagerarbetare,5,0,0
+m,medarbetare,Restaurangbiträde,5,0,0
+m,mechanical,Civilingenjör; konstruktion; maskin,5,0,0
+m,mcdonalds,Restaurangbiträde,19,0,0
+m,maxkompetens,Systemutvecklare/Programmerare,15,0,0
+m,maxkompetens,Rekryterare/Rekryteringskonsult,6,0,0
+m,max,Restaurangbiträde,51,0,0
+m,matematiklärare,Lärare i grundskolan; årskurs 7-9,6,0,0
+m,matematik lärare,Lärare i gymnasiet,5,0,0
+m,medarbetare,Farmaceut/Apotekare,12,0,0
+m,marketing,Marknadsförare,10,0,0
+m,marknadsföring,Marknadsassistent,5,0,0
+m,Märsta,Butikssäljare/Medarbetare; dagligvaror,6,0,0
+m,Museum,Projektledare: kultur; media; film,6,0,0
+m,Musik,Lärare i gymnasiet,10,0,0
+m,Musik,Lärare i praktiska och estetiska ämnen,6,0,0
+m,Musik,Musikpedagog/Musiklärare,7,0,0
+m,Musiklärare,Lärare i praktiska och estetiska ämnen,6,0,0
+m,Mynanny,Barnflicka/Barnvakt,7,0,0
+m,Museum,Museipedagog/Museilärare,5,0,0
+m,Märsta,Butikssäljare; fackhandel,9,0,0
+m,Märsta,Personlig assistent,10,0,0
+m,Mötesbokare,Besöksbokare/Kundbokare,33,0,0
+m,Mötesbokare,Innesäljare,5,0,0
+m,Mötesbokare,Telefonförsäljare,8,0,0
+m,Mötesplats,Lärare i förskola/Förskollärare,5,0,0
+m,Mötesplats,Personlig assistent,7,0,0
+m,Märsta,Lärare i grundskolan; årskurs 1-3,12,0,0
+m,Mottagningsenhet,Socialsekreterare,5,0,0
+m,Musik,Lärare i grundskolan; årskurs 7-9,5,0,0
+m,Montör,Fordonsmontör,18,0,0
+m,Majorna,Lärare i fritidshem/Fritidspedagog,6,0,0
+m,Majorna,Lärare i förskola/Förskollärare,8,0,0
+m,Malmö,Personlig assistent,16,0,0
+m,Malmö,Rektor,6,0,0
+m,Matematik,Lärare i grundskolan; årskurs 7-9,13,0,0
+m,Montör,Montör; metallprodukter,12,0,0
+m,Max,Restaurangbiträde,17,0,0
+m,Medicinsk riskbedömning,Sjuksköterska; grundutbildad,7,0,0
+m,Matematik,Lärare i gymnasiet,30,0,0
+m,Mentalskötare,Vårdare/Arbetshandledare/Boendestödjare,5,0,0
+m,Migrationsverket,Handläggare/Utredare; offentlig förvaltning,6,0,0
+m,Migrationsverket,Servicehandläggare,6,0,0
+m,Miljö,Miljöhandläggare,6,0,0
+m,Modersmålslärare,Modersmålslärare i grundskolan,10,0,0
+m,Montessori,Lärare i förskola/Förskollärare,8,0,0
+m,Montör,Elektronikmontör,5,0,0
+n,norska,Kundtjänstmedarbetare,5,0,0
+n,natt,Sjuksköterska; grundutbildad,15,0,0
+n,natt,Städare/Lokalvårdare,11,0,0
+n,nätter,Personlig assistent,9,0,0
+n,nälden,Receptionist; telefonist,6,0,0
+n,nyanlända,Jobbcoach/Utbildningscoach,6,0,0
+n,norsktalande,Kundtjänstmedarbetare,6,0,0
+n,natt,Personlig assistent,110,0,0
+n,norge,Träarbetare/Snickare,6,0,0
+n,Natt,Lagerarbetare,7,0,0
+n,nordea,Servicehandläggare,5,0,0
+n,nordea,Kundtjänstmedarbetare,7,0,0
+n,no,Lärare i grundskolan; årskurs 7-9,16,0,0
+n,naturkunskap,Lärare i gymnasiet,20,0,0
+n,natt,Vårdare/Arbetshandledare/Boendestödjare,8,0,0
+n,natt,Väktare,5,0,0
+n,natt,Undersköterska; hemtjänst och äldreboende,46,0,0
+n,natt,Truckförare,8,0,0
+n,natt,Parkeringsvakt,10,0,0
+n,nordquist,Maskinoperatör; te-; kaffe- och kakaoberedning,5,0,0
+n,natt,Lagerarbetare,14,0,0
+n,natt,Stödassistent,6,0,0
+n,natt,Budbilsförare,7,0,0
+n,Nanny,Barnflicka/Barnvakt,16,0,0
+n,Nationalekonomi,Nationalekonom,6,0,0
+n,Natt,Budbilsförare,5,0,0
+n,natt,Terminalarbetare,16,0,0
+n,Natt,Personlig assistent,42,0,0
+n,Natt,Sjuksköterska; grundutbildad,7,0,0
+n,Natt,Terminalarbetare,9,0,0
+n,Natt,Truckförare,6,0,0
+n,Natt,Undersköterska; hemtjänst och äldreboende,11,0,0
+n,Nevs,VVS-ingenjör,5,0,0
+n,No,Lärare i grundskolan; årskurs 7-9,17,0,0
+n,Norden,Fotograf,5,0,0
+n,Norden,Personlig assistent,7,0,0
+n,Nyköping Oxelösund,Svetsare; manuell,10,0,0
+n,nanny,Barnflicka/Barnvakt,30,0,0
+n,nationalekonomi,Nationalekonom,7,0,0
+n,native,Lärare i gymnasiet,5,0,0
+n,natt,Behandlingsassistent/Socialpedagog,6,0,0
+n,natt,Hotellreceptionist,13,0,0
+o,Oromo,Modersmålslärare i grundskolan,5,0,0
+o,olika jobb,Personlig assistent,9,0,0
+o,oslo,Truckförare,5,0,0
+o,och,Lärare i grundskolan; årskurs 7-9,12,0,0
+o,oslo,Lagerarbetare,9,0,0
+o,och,Jobbcoach/Utbildningscoach,7,0,0
+o,orderplock,Lagerarbetare,11,0,0
+o,omvårdnad,Personlig assistent,8,0,0
+o,omgående,Kundtjänstmedarbetare,6,0,0
+o,orderplockare,Lagerarbetare,16,0,0
+o,office,Kontorsreceptionist,5,0,0
+o,och,Studie- och yrkesvägledare,14,0,0
+o,och,Lärare i gymnasiet - yrkesämnen,17,0,0
+o,och,Lärare i gymnasiet,16,0,0
+p,Post,Barnflicka/Barnvakt,37,0,0
+p,Projektledare,Projektledare; bygg och anläggning,6,0,0
+p,Projektledare,Projektledare; IT,10,0,0
+p,Project Manager,Account manager,11,0,0
+p,Programmerare,Systemutvecklare/Programmerare,6,0,0
+p,Produktionstekniker,Produktionstekniker; maskin/verkstad,5,0,0
+p,Pressbyrån,Butikssäljare/Medarbetare; dagligvaror,5,0,0
+p,Ptp,PTP-psykolog,5,0,0
+p,Polska,Speditör,5,0,0
+p,project,Projektledare; IT,6,0,0
+p,Personligt,Personlig assistent,8,0,0
+p,Personlig assistent natt,Personlig assistent,5,0,0
+p,Personlig assistent dygnspass,Personlig assistent,15,0,0
+p,Personlig,Personlig assistent,21,0,0
+p,Pema,Terminalarbetare,5,0,0
+p,Pedagogista,Lärare i förskola/Förskollärare,13,0,0
+p,Pedagog,Lärare i förskola/Förskollärare,5,0,0
+p,Passal,Personlig assistent,32,0,0
+p,Ptp,Psykolog,6,0,0
+p,Pins,Innesäljare,5,0,0
+p,projektadministratör,Administrativ assistent,9,0,0
+p,polska,Personalkontorist,5,0,0
+p,personlig assistentarbete,Personlig assistent,506,0,0
+p,personlig assistant,Personlig assistent,37,0,0
+p,personlig assestent,Personlig assistent,5,0,0
+p,personlig asistent,Personlig assistent,6,0,0
+p,personlig  assistent,Lärare i grundskolan; årskurs 1-3,18,0,0
+p,personlig  assistent,Biståndsbedömare/Biståndshandläggare,17,0,0
+p,personlig,Personlig assistent,183,0,0
+p,personig assistent,Personlig assistent,11,0,0
+p,persolig assistent,Personlig assistent,11,0,0
+p,persiska,Studie- och yrkesvägledare,15,0,0
+p,persiska,Modersmålslärare i grundskolan,6,0,0
+p,persiska,Jobbcoach/Utbildningscoach,5,0,0
+p,peronlig assistent,Personlig assistent,53,0,0
+p,peronlig assistent,Administrativ assistent,7,0,0
+p,pedagog,Lärare i förskola/Förskollärare,5,0,0
+p,partykungen,Lagerarbetare,7,0,0
+p,pair,Barnflicka/Barnvakt,5,0,0
+p,projektledare,Produktionskoordinator,5,0,0
+p,projektledare,Projektledare: kultur; media; film,6,0,0
+p,projektledare,Projektledare; IT,34,0,0
+p,projektledare,Projektledare; bygg och anläggning,25,0,0
+p,projektledare,Projektledare; reklam,11,0,0
+p,psykiatri,Specialistläkare,8,0,0
+p,psykolog habiliteringen,Psykolog,6,0,0
+p,psykologi,Doktorand,7,0,0
+p,psykologi,Lärare i gymnasiet,15,0,0
+p,psykologi folkuniversitetet,Lärare i gymnasiet,6,0,0
+p,ptp,PTP-psykolog,9,0,0
+p,python,Systemutvecklare/Programmerare,5,0,0
+p,personllig assistent,Personlig assistent,8,0,0
+p,perssonlig assistent,Personlig assistent,6,0,0
+p,persulig assistent,Personlig assistent,26,0,0
+p,programmering,Systemutvecklare/Programmerare,8,0,0
+p,programmering,Lärare i gymnasiet,10,0,0
+p,programmerare,Systemutvecklare/Programmerare,12,0,0
+p,produktutv*,Produktutvecklare,7,0,0
+p,produktionstekniker,Produktionstekniker; maskin/verkstad,9,0,0
+p,processoperatör,Maskinoperatör; läkemedel,5,0,0
+p,privatrådgivare,Privatekonomisk rådgivare,5,0,0
+p,pressbyrån,Butikssäljare/Medarbetare; dagligvaror,14,0,0
+p,premo,Tidningsbud/Tidningsdistributör,7,0,0
+p,praktik,Marknadskommunikatör,5,0,0
+p,praktik,Eventproducent,5,0,0
+p,postnord,Distributionsförare,6,0,0
+p,postnord,Brevbärare,14,0,0
+p,ptp,Psykolog,7,0,0
+p,postdoktor,Forskarassistent,14,0,0
+p,polska,Speditör,7,0,0
+p,projektledare,Eventproducent,7,0,0
+p,polska,Modersmålslärare/Modersmålspedagog,6,0,0
+p,polska,Inköpare,5,0,0
+p,polska,Chefssekreterare,10,0,0
+p,politik,Departementssekreterare,8,0,0
+p,plock,Lagerarbetare,14,0,0
+p,play,Receptionist; telefonist,5,0,0
+p,pianopedagog,Musikpedagog/Musiklärare,8,0,0
+p,piano,Musikpedagog/Musiklärare,11,0,0
+p,php,Systemutvecklare/Programmerare,18,0,0
+p,phd,Doktorand,8,0,0
+p,persulig assistent,Städare/Lokalvårdare,5,0,0
+p,portuguese,Telefonintervjuare,7,0,0
+p,python,Mjukvaruutvecklare,8,0,0
+r,redovisningsansvarig,Redovisningsekonom,15,0,0
+r,radix,Jobbcoach/Utbildningscoach,5,0,0
+r,redovisningsansvarig,Redovisningschef,7,0,0
+r,reception,Kontorsreceptionist,6,0,0
+r,receptionist,Administrativ assistent,7,0,0
+r,rörelse,Lärare i förskola/Förskollärare,19,0,0
+r,rörelse,Barnskötare,10,0,0
+r,ryska,Verksamhetsanalytiker,6,0,0
+r,ryska,Tolk,8,0,0
+r,ryska,Städare/Lokalvårdare,8,0,0
+r,ryska,Officer,12,0,0
+r,ryska,Kontorsreceptionist,13,0,0
+r,ryska,Jobbcoach/Utbildningscoach,10,0,0
+r,ryska,Informationssekreterare,12,0,0
+r,ryska,Administrativ assistent,7,0,0
+r,rusta,Butikssäljare; fackhandel,6,0,0
+r,rosersberg,Lagerarbetare,5,0,0
+r,rivare,Grovarbetare; bygg och anläggning,19,0,0
+r,rivare,Demonteringsarbetare/Rivningsarbetare,13,0,0
+r,rivare,Asbestsanerare,9,0,0
+r,riksbyggen,Administrativ assistent,6,0,0
+r,ridledare/hästskötare,Barnskötare,12,0,0
+r,revit,Projekteringsingenjör; bygg och anläggning,6,0,0
+r,resurspedagog,Elevassistent,8,0,0
+r,resurs,Elevassistent,7,0,0
+r,redovisning,Redovisningsekonom,17,0,0
+r,restaurant,Kock; à la carte,5,0,0
+r,restauranglärare,Lärare i gymnasiet - yrkesämnen,7,0,0
+r,restaurang,Servitör/Servitris,17,0,0
+r,restaurang,Restaurangbiträde,7,0,0
+r,restaurang,Kock; à la carte,9,0,0
+r,resebyrå,Resesäljare/Reseförsäljare/Resekonsulent,7,0,0
+r,remote,Systemutvecklare/Programmerare,6,0,0
+r,religion,Lärare i gymnasiet,12,0,0
+r,rörelse,Ungdomsinstruktör/Ungdomstränare,14,0,0
+r,reception,Receptionist; telefonist,8,0,0
+r,rörmokare,VVS-montör,5,0,0
+r,resurs,Barnskötare,7,0,0
+r,receptionist,Hotellreceptionist,10,0,0
+r,receptionist,Kontorsreceptionist,33,0,0
+r,receptionist,Receptionist; telefonist,58,0,0
+r,Receptionist,Administrativ assistent,5,0,0
+r,Receptionist,Receptionist; telefonist,16,0,0
+r,Redovisning,Redovisningsekonom,6,0,0
+r,Religion,Lärare i gymnasiet,8,0,0
+r,Rent a nurse,Sjuksköterska; grundutbildad,5,0,0
+r,Reskontra,Ekonomiassistent,5,0,0
+r,Restaurang,Restaurangbiträde,6,0,0
+r,Restaurang,Servitör/Servitris,30,0,0
+r,Resurs,Elevassistent,5,0,0
+r,Rhodos,Eventsäljare/Eventförsäljare,6,0,0
+r,Rosersberg,Fastighetstekniker/Drifttekniker; fastighet,5,0,0
+s,skaraborg,Beställningskontorist,5,0,0
+s,sjukvård,Skolsköterska,6,0,0
+s,servicetekniker,Servicetekniker; kontorsmaskiner,5,0,0
+s,servicetekniker,Servicetekniker; maskin,17,0,0
+s,sfi,Lärare i gymnasiet,9,0,0
+s,sfi,SFI-lärare,15,0,0
+s,simlärare,Idrottsinstruktör/Idrottstränare,5,0,0
+s,sjuksköterska,Distriktssköterska,22,0,0
+s,sjuksköterska,Företagssjuksköterska/Företagssköterska,6,0,0
+s,sjuksköterska,Sjuksköterska; grundutbildad,204,0,0
+s,sjuksköterska,Sjuksköterska; medicin och kirurgi,5,0,0
+s,sjuksköterska,Sjuksköterska; psykiatrisk vård,15,0,0
+s,sjuksköterska,Sjuksköterska; äldreomsorg och -vård/geriatrik,7,0,0
+s,sjuksköterska,Skolsköterska,10,0,0
+s,sjuksköterska beroendevård,Sjuksköterska; grundutbildad,6,0,0
+s,sjuksköterskor,Sjuksköterska; grundutbildad,5,0,0
+s,servicetekniker,Servicetekniker; elektronik,10,0,0
+s,servicetekniker,Serviceingenjör; maskin,5,0,0
+s,säljare,Innesäljare,112,0,0
+s,södertälje kommun,Personlig assistent,18,0,0
+s,sommarjobb,Medlemsvärvare; intresseorg./Telefonkommunikatör,11,0,0
+s,sommarjobb,Marknadsassistent,5,0,0
+s,sommarjobb,Lärare i grundskolan; årskurs 4-6,6,0,0
+s,sommarjobb,Lagerarbetare,127,0,0
+s,sommarjobb,Kundtjänstmedarbetare,50,0,0
+s,sommarjobb,Kontorsvaktmästare,6,0,0
+s,sommarjobb,Kontorsreceptionist,9,0,0
+s,sommarjobb,Konstruktör; tillverkningsindustri,7,0,0
+s,sommarjobb,Konditoribiträde,11,0,0
+s,sommarjobb,Jobbcoach/Utbildningscoach,9,0,0
+s,sommarjobb,Innesäljare,16,0,0
+s,sommarjobb,Montör; metallprodukter,10,0,0
+s,sommarjobb,Helpdesktekniker/Supporttekniker,11,0,0
+s,sommarjobb,Fastighetsskötare/Fastighetsarbetare,22,0,0
+s,sommarjobb,Eventsäljare/Eventförsäljare,16,0,0
+s,sommarjobb,Ekonomiassistent,40,0,0
+s,sommarjobb,Diversearbetare,16,0,0
+s,sommarjobb,Butikssäljare; fackhandel,20,0,0
+s,sommarjobb,Butikssäljare/Medarbetare; dagligvaror,8,0,0
+s,sommarjobb,Butiksdemonstratör,20,0,0
+s,sommarjobb,Budbilsförare,7,0,0
+s,sommarjobb,Besöksbokare/Kundbokare,12,0,0
+s,sommarjobb,Arbetsledare;trädgård/Trädgårdsanläggningsförman,9,0,0
+s,sommarjobb,Administrativ assistent,30,0,0
+s,sommarjobb,Handpaketerare,14,0,0
+s,sommarjobb,Abonnemangsförsäljare,34,0,0
+s,sommarjobb,Orderadministratör,10,0,0
+s,sommarjobb,Packare,11,0,0
+s,spanska,Servitör/Servitris,8,0,0
+s,spanska,Receptionist; telefonist,8,0,0
+s,spanska,Personlig assistent,7,0,0
+s,spanska,Modersmålslärare/Modersmålspedagog,6,0,0
+s,spanska,Modersmålslärare i grundskolan,6,0,0
+s,spanska,Lärare i gymnasiet,130,0,0
+s,spanska,Lärare i grundskolan; årskurs 7-9,200,0,0
+s,spanska,Cirkelledare/Studiecirkelledare,22,0,0
+s,spanska,Administrativ assistent,17,0,0
+s,sommarvikarie till personlig assistens,Personlig assistent,11,0,0
+s,sommarvikariat som personlig assistent,Personlig assistent,7,0,0
+s,sommarjobb,Ordermottagare,10,0,0
+s,sommarjobb,Vårdbiträde,8,0,0
+s,sommarjobb,Utesäljare,27,0,0
+s,sommarjobb,Undersköterska; hemtjänst och äldreboende,15,0,0
+s,sommarjobb,Trädgårdsarbetare/Plantskolearbetare; trädgård,10,0,0
+s,sommarjobb,Trädgårdsanläggare/Trädgårdsanläggningsarbetare,5,0,0
+s,sommarjobb,Terminalarbetare,10,0,0
+s,sommarjobb,Telefonförsäljare,27,0,0
+s,sommarjobb,Städare/Lokalvårdare,16,0,0
+s,sommarjobb,Restaurangbiträde,7,0,0
+s,sommarjobb,Receptionist; telefonist,24,0,0
+s,sommarjobb,Personlig assistent,54,0,0
+s,sommarjobb,Parkarbetare/Utemiljöarbetare/Miljövärd,20,0,0
+s,sommarjobb,Vårdare/Arbetshandledare/Boendestödjare,16,0,0
+s,sommar,Utesäljare,5,0,0
+s,sommar,Personlig assistent,10,0,0
+s,sommar,Lagerarbetare,5,0,0
+s,skåne,Städare/Lokalvårdare,20,0,0
+s,skåne,Socialsekreterare,7,0,0
+s,skåne,Redovisningsekonom,6,0,0
+s,skåne,Personlig assistent,5,0,0
+s,skåne,Lärare i grundskolan; årskurs 7-9,5,0,0
+s,skåne,Lagerarbetare,22,0,0
+s,skåne,Distributionsförare,10,0,0
+s,skåne,Butikssäljare/Medarbetare; dagligvaror,5,0,0
+s,skåne,Behandlingsassistent/Socialpedagog,7,0,0
+s,skyddsvärnet,Account manager,7,0,0
+s,skribent,Webbredaktör,10,0,0
+s,skåne,Truckförare,6,0,0
+s,skribent,Marknadsförare,5,0,0
+s,skribent,Författare,17,0,0
+s,skribent,Copywriter,22,0,0
+s,skolkoordinator,Skolassistent,5,0,0
+s,skoladministratör,Skolsekreterare,6,0,0
+s,skoladministratör,Skolassistent,10,0,0
+s,skola,Lärare i grundskolan; årskurs 7-9,7,0,0
+s,skola,Lärare i grundskolan; årskurs 1-3,6,0,0
+s,skogås,Distriktssköterska,5,0,0
+s,skatteverket,Folkbokföringshandläggare,6,0,0
+s,skatteverket,Controller,5,0,0
+s,servicerådgivare,Kundmottagare/Verkmästare; bilverkstad,8,0,0
+s,skribent,Informatör/Kommunikatör,13,0,0
+s,skönhet,Butikssäljare; fackhandel,5,0,0
+s,slöjd,Lärare i grundskolan; årskurs 4-6,23,0,0
+s,slöjd,Lärare i grundskolan; årskurs 7-9,32,0,0
+s,sommar,Kundtjänstmedarbetare,11,0,0
+s,sommar,Innesäljare,5,0,0
+s,sommar,Ekonomiassistent,6,0,0
+s,sommar,Butikssäljare; fackhandel,7,0,0
+s,sommar,Butikssäljare/Medarbetare; dagligvaror,7,0,0
+s,sommar,Administrativ assistent,5,0,0
+s,somaliska,Modersmålslärare i grundskolan,11,0,0
+s,somaliska,Jobbcoach/Utbildningscoach,5,0,0
+s,som,SFI-lärare,12,0,0
+s,som,Lärare i gymnasiet,11,0,0
+s,som,Lärare i grundskolan; årskurs 7-9,7,0,0
+s,socionom,Socialsekreterare,6,0,0
+s,socialsekreterare,Socialsekreterare,9,0,0
+s,socialpsykiatrin,Stödpedagog,6,0,0
+s,social arbete,Lärare i grundskolan; årskurs 7-9,6,0,0
+s,so-lärare,Lärare i grundskolan; årskurs 7-9,7,0,0
+s,so,Lärare i grundskolan; årskurs 7-9,5,0,0
+s,snickare,Träarbetare/Snickare,99,0,0
+s,snickare,Reparationssnickare,6,0,0
+s,snickare,Betongarbetare,5,0,0
+s,slöjdlärare,Lärare i praktiska och estetiska ämnen,10,0,0
+s,slöjdlärare,Lärare i grundskolan; årskurs 7-9,7,0,0
+s,slöjdlärare,Lärare i grundskolan; årskurs 4-6,12,0,0
+s,slöjd lärare,Lärare i grundskolan; årskurs 7-9,6,0,0
+s,slöjd,Lärare i praktiska och estetiska ämnen,5,0,0
+s,språk,Kundtjänstmedarbetare,7,0,0
+s,spyken,Lärare i gymnasiet,6,0,0
+s,spånga,Barnskötare,8,0,0
+s,spånga,Lagerarbetare,8,0,0
+s,systemutvecklare sharepoint,Systemutvecklare/Programmerare,5,0,0
+s,synoptik,Butikssäljare; fackhandel,10,0,0
+s,swesale,Account manager,14,0,0
+s,swedol,Butikssäljare; fackhandel,11,0,0
+s,swedish,Kundtjänstmedarbetare,11,0,0
+s,swedbank,Kundtjänstmedarbetare,12,0,0
+s,svetsning,Svetsare; manuell,9,0,0
+s,svetsning,CNC-operatör/FMS-operatör,5,0,0
+s,svetsare,Svetsare; manuell,88,0,0
+s,svets,Verkstadsmekaniker/Verkstadstekniker,6,0,0
+s,svenska,SFI-lärare,12,0,0
+s,syv,Studie- och yrkesvägledare,6,0,0
+s,svenska,Lärare i gymnasiet,45,0,0
+s,svenska,Administrativ assistent,5,0,0
+s,sveg,Rekryterare/Rekryteringskonsult,6,0,0
+s,sva,Lärare i gymnasiet,5,0,0
+s,sva,Lärare i grundskolan; årskurs 7-9,7,0,0
+s,sushikock,Specialkock,7,0,0
+s,sushi,Specialkock,11,0,0
+s,sushi,Restaurangbiträde,7,0,0
+s,support,Kundtjänstmedarbetare,9,0,0
+s,support,Helpdesktekniker/Supporttekniker,37,0,0
+s,supply,Logistikingenjör,6,0,0
+s,supply,Inköpare,5,0,0
+s,svenska,Lärare i grundskolan; årskurs 7-9,15,0,0
+s,säkerhetssamordnare,Säkerhetsrådgivare,11,0,0
+s,sälj,Utesäljare,7,0,0
+s,säljare,Abonnemangsförsäljare,35,0,0
+s,södertälje,Truckförare,6,0,0
+s,södertälje,Butikssäljare; fackhandel,5,0,0
+s,södermalm,Personlig assistent,12,0,0
+s,särskola,Specialpedagog,5,0,0
+s,säljsupport,Innesäljare,7,0,0
+s,säljkonsult,Medlemsvärvare; intresseorg./Telefonkommunikatör,8,0,0
+s,säljare,Utesäljare,196,0,0
+s,säljare,Telefonförsäljare,66,0,0
+s,säljare,Säljledare,6,0,0
+s,säljare,Säljkonsulent,18,0,0
+s,säljare,Säljassistent,5,0,0
+s,säljare,Systemsäljare,5,0,0
+s,säljare,Mediasäljare,18,0,0
+s,säljare,Lärare i grundskolan; årskurs 4-6,6,0,0
+s,säljare,Lärare i förskola/Förskollärare,6,0,0
+s,säljare,Key account manager,9,0,0
+s,säljare,Internationell säljare,9,0,0
+s,skaraborg,Stödpedagog,5,0,0
+s,säljare,Hemförsäljare,49,0,0
+s,säljare,Försäljningschef,9,0,0
+s,säljare,Eventsäljare/Eventförsäljare,13,0,0
+s,säljare,Butikssäljare; fackhandel,116,0,0
+s,säljare,Butikssäljare/Medarbetare; dagligvaror,31,0,0
+s,säljare,Bensinstationsbiträde/Servicebiträde,6,0,0
+s,säljare,Account manager,114,0,0
+s,supply,Affärskonsult; IT,6,0,0
+s,sömmerska,Industrisömmerska,5,0,0
+s,subway,Restaurangbiträde,8,0,0
+s,städning,Städare/Lokalvårdare,35,0,0
+s,stockholm,Köksbiträde,11,0,0
+s,stockholm,Kundtjänstmedarbetare,10,0,0
+s,stockholm,Jobbcoach/Utbildningscoach,5,0,0
+s,stockholm,Helpdesktekniker/Supporttekniker,5,0,0
+s,stockholm,Handläggare/Utredare; offentlig förvaltning,6,0,0
+s,stockholm,HR-assistent,7,0,0
+s,stockholm,Frontend-utvecklare,7,0,0
+s,stockholm,Fordonstekniker/Bilmekaniker/Personbilsmekaniker,16,0,0
+s,stockholm,Butikssäljare; fackhandel,8,0,0
+s,stockholm,Administrativ assistent,12,0,0
+s,statsvetenskap,Handläggare/Utredare; offentlig förvaltning,13,0,0
+s,stockholm,Lagerarbetare,10,0,0
+s,statsvetare,Officer,7,0,0
+s,statistik,Statistiker,7,0,0
+s,statistik,Handläggare/Utredare; offentlig förvaltning,5,0,0
+s,stadsbiblioteket,Diversearbetare,6,0,0
+s,stad,Socialsekreterare,6,0,0
+s,stad,Lärare i grundskolan; årskurs 1-3,8,0,0
+s,st läkare,ST-läkare,5,0,0
+s,st,ST-läkare,8,0,0
+s,sry,Städare/Lokalvårdare,88,0,0
+s,sry,Arbetsledare; städ/Städledare,7,0,0
+s,srb,Butikssäljare/Medarbetare; dagligvaror,12,0,0
+s,"spånga,",Lagerarbetare,6,0,0
+s,statistik,Systemanalytiker/Systemutredare,6,0,0
+s,stockholm,Lärare i grundskolan; årskurs 1-3,5,0,0
+s,stockholm,Lärare i grundskolan; årskurs 4-6,10,0,0
+s,stockholm,Lärare i gymnasiet,5,0,0
+s,städning,Personlig assistent,10,0,0
+s,städning,Barnflicka/Barnvakt,13,0,0
+s,städare,Städare/Lokalvårdare,15,0,0
+s,städ,Städare/Lokalvårdare,10,0,0
+s,städ,Arbetsledare; städ/Städledare,9,0,0
+s,studiehandledare,Modersmålslärare i grundskolan,19,0,0
+s,studie,Studie- och yrkesvägledare,17,0,0
+s,studie,Jobbcoach/Utbildningscoach,5,0,0
+s,student,Lagerarbetare,13,0,0
+s,student,Kundtjänstmedarbetare,8,0,0
+s,student,Eventsäljare/Eventförsäljare,5,0,0
+s,stråkpedagog,Musikpedagog/Musiklärare,6,0,0
+s,strängnäs,Lagerarbetare,7,0,0
+s,stockholms läns,Läkarsekreterare/Vårdadmin/Medicinsk sekreterare,7,0,0
+s,stockholms  stad,Lärare i grundskolan; årskurs 1-3,18,0,0
+s,skaraborg,Maskinoperatör; mekanisk verkstad,9,0,0
+s,stockholms  stad,Biståndsbedömare/Biståndshandläggare,17,0,0
+s,stockholm',Servitör/Servitris,6,0,0
+s,stockholm,Undersköterska; hemtjänst och äldreboende,14,0,0
+s,stockholm,Systemutvecklare/Programmerare,5,0,0
+s,stockholm,Städare/Lokalvårdare,34,0,0
+s,stockholm,Socionom,8,0,0
+s,stockholm,Restaurangbiträde,9,0,0
+s,stockholm,Receptionist; telefonist,9,0,0
+s,stockholm,Marknadsassistent,7,0,0
+s,stödpedagog,Stödpedagog,6,0,0
+s,service,Personlig assistent,7,0,0
+s,Säljare,Eventsäljare/Eventförsäljare,10,0,0
+s,service,Administrativ assistent,7,0,0
+s,Sommarjobb,Receptionist; telefonist,9,0,0
+s,Sommarjobb,Telefonförsäljare,7,0,0
+s,Sommarjobb,Terminalarbetare,6,0,0
+s,Sommarjobb,Truckförare,5,0,0
+s,Sommarjobb,Trädgårdsarbetare/Plantskolearbetare; trädgård,7,0,0
+s,Sommarjobb,Utesäljare,11,0,0
+s,Spanska,Cirkelledare/Studiecirkelledare,12,0,0
+s,Spanska,Jobbcoach/Utbildningscoach,5,0,0
+s,Spanska,Kock; à la carte,6,0,0
+s,Spanska,Lärare i grundskolan; årskurs 7-9,59,0,0
+s,Spanska,Lärare i gymnasiet,37,0,0
+s,Spanska,Servitör/Servitris,5,0,0
+s,Spanska,Telefonförsäljare,6,0,0
+s,Spanska,Utbildningskoordinator,6,0,0
+s,Spånga,Barnskötare,7,0,0
+s,Spånga,Butikssäljare/Medarbetare; dagligvaror,5,0,0
+s,Spånga,Lagerarbetare,6,0,0
+s,Sommarjobb,Personlig assistent,34,0,0
+s,Staffanstorp,Personlig assistent,6,0,0
+s,Sommarjobb,Parkarbetare/Utemiljöarbetare/Miljövärd,8,0,0
+s,Sommarjobb,Lagerarbetare,53,0,0
+s,Slöjd,Lärare i grundskolan; årskurs 7-9,8,0,0
+s,Snickare,Bygg- och anläggningsförare,6,0,0
+s,Snickare,Grovarbetare; bygg och anläggning,6,0,0
+s,Snickare,Träarbetare/Snickare,22,0,0
+s,Snickare,Träarbetare/Snickare; utan yrkesbevis,5,0,0
+s,So,Lärare i grundskolan; årskurs 7-9,11,0,0
+s,Socialpedagog,Behandlingsassistent/Socialpedagog,6,0,0
+s,Socionom,Socialsekreterare,6,0,0
+s,Somaliska,Modersmålslärare i grundskolan,6,0,0
+s,Sommar,Kundtjänstmedarbetare,6,0,0
+s,Sommarjobb,Butikskonsulent,6,0,0
+s,Sommarjobb,Butikssäljare/Medarbetare; dagligvaror,6,0,0
+s,Sommarjobb,Diversearbetare,8,0,0
+s,Sommarjobb,Ekonomiassistent,10,0,0
+s,Sommarjobb,Fastighetsskötare/Fastighetsarbetare,5,0,0
+s,Sommarjobb,Handpaketerare,6,0,0
+s,Sommarjobb,Kundtjänstmedarbetare,11,0,0
+s,Sommarjobb,Montör; metallprodukter,6,0,0
+s,Slöjd,Lärare i grundskolan; årskurs 4-6,10,0,0
+s,Steneby,Lärare i förskola/Förskollärare,5,0,0
+s,Stockholm,Administrativ assistent,14,0,0
+s,Svenska,Lärare i grundskolan; årskurs 7-9,5,0,0
+s,Svenska,Lärare i gymnasiet,5,0,0
+s,Svetsare,Svetsare; manuell,18,0,0
+s,Systemvetare,Systemutvecklare/Programmerare,5,0,0
+s,Säkerhetssamordnare,Säkerhetsrådgivare,6,0,0
+s,Sälj,Account manager,5,0,0
+s,Säljare,Abonnemangsförsäljare,5,0,0
+s,Säljare,Account manager,26,0,0
+s,Säljare,Hemförsäljare,17,0,0
+s,Säljare,Innesäljare,37,0,0
+s,Säljare,Mediasäljare,7,0,0
+s,Säljare,Säljkonsulent,12,0,0
+s,Säljare,Telefonförsäljare,10,0,0
+s,Säljare,Utesäljare,70,0,0
+s,Södermalm,Personlig assistent,5,0,0
+s,Södermalm,Undersköterska; hemtjänst och äldreboende,5,0,0
+s,service,Kundtjänstmedarbetare,8,0,0
+s,Sveg,Distriktssköterska,5,0,0
+s,Steneby,Personlig assistent,7,0,0
+s,Sushi,Kock; à la carte,6,0,0
+s,Supply,Projektledare; bygg och anläggning,5,0,0
+s,Stockholm,Budbilsförare,6,0,0
+s,Stockholm,Butikssäljare; fackhandel,7,0,0
+s,Stockholm,Lärare i förskola/Förskollärare,10,0,0
+s,Stockholm lä,Personlig assistent,18,0,0
+s,Stockholm län,Personlig assistent,27,0,0
+s,Stockholm län,Servitör/Servitris,6,0,0
+s,Stockholms,Lärare i grundskolan; årskurs 1-3,21,0,0
+s,Storkök,Kock; storhushåll,10,0,0
+s,Student,Lagerarbetare,5,0,0
+s,Städ,Städare/Lokalvårdare,17,0,0
+s,Städ lokavårdare,Städare/Lokalvårdare,5,0,0
+s,Städare/Lokalvårdare,Städare/Lokalvårdare,5,0,0
+s,Städning,Barnflicka/Barnvakt,9,0,0
+s,Städning,Butikssäljare/Medarbetare; dagligvaror,6,0,0
+s,Städning,Personlig assistent,7,0,0
+s,Städning,Städare/Lokalvårdare,23,0,0
+s,Sundsvall,Kontakttolk/Dialogtolk,11,0,0
+s,Support,Helpdesktekniker/Supporttekniker,7,0,0
+s,Skåne,Väktare,7,0,0
+s,Sommarjobb,Undersköterska; hemtjänst och äldreboende,8,0,0
+s,Skåne,Undersköterska; vård- o specialavd. o mottagning,6,0,0
+s,SO,Lärare i grundskolan; årskurs 4-6,7,0,0
+s,SO,Lärare i grundskolan; årskurs 7-9,12,0,0
+s,SVA LÄRARE,Lärare i gymnasiet,7,0,0
+s,Samhällskunskap,Lärare i gymnasiet,6,0,0
+s,Samordnare,Administrativ chef,5,0,0
+s,Service,Kundtjänstmedarbetare,5,0,0
+s,Servicerådgivare,Kundmottagare/Verkmästare; bilverkstad,5,0,0
+s,Servicetekniker,Servicetekniker; elektronik,8,0,0
+s,Servicetekniker,Servicetekniker; maskin,18,0,0
+s,Servitör,Servitör/Servitris,22,0,0
+s,Sjuksköterska,Distriktssköterska,26,0,0
+s,Sjuksköterska,Sjuksköterska; grundutbildad,208,0,0
+s,Sjuksköterska,Sjuksköterska; medicin och kirurgi,11,0,0
+s,Sjuksköterska,Sjuksköterska; psykiatrisk vård,9,0,0
+s,Sjuksköterska,Sjuksköterska; äldreomsorg och -vård/geriatrik,21,0,0
+s,Sjuksköterska,Skolsköterska,12,0,0
+s,"Sjuksköterska,",Sjuksköterska; grundutbildad,10,0,0
+s,SFI,SFI-lärare,11,0,0
+s,"Sjuksköterska, barn",Sjuksköterska; grundutbildad,5,0,0
+s,Säljare,Butikssäljare; fackhandel,24,0,0
+s,sales,Butikssäljare; fackhandel,5,0,0
+s,servering,Servitör/Servitris,6,0,0
+s,scrum,Systemutvecklare/Programmerare,9,0,0
+s,sccm,IT-tekniker/Datatekniker,5,0,0
+s,scania,Fordonsmontör,6,0,0
+s,scania,CNC-operatör/FMS-operatör,7,0,0
+s,scania,Business controller,5,0,0
+s,scania,Administrativ assistent,6,0,0
+s,sandviken,Personalchef/HR-chef,7,0,0
+s,sandviken,Administrativ chef,8,0,0
+s,samordnare,Utbildningskoordinator,6,0,0
+s,samordnare,Socionom,8,0,0
+s,samordnare,Personalansvarig,5,0,0
+s,Skåne,Utesäljare,22,0,0
+s,samordnare,Administrativ chef,16,0,0
+s,samordnare,Administrativ assistent,15,0,0
+s,samhällskunskap,Lärare i gymnasiet,31,0,0
+s,sales,Internationell säljare,5,0,0
+s,saab,Projektledare; bygg och anläggning,10,0,0
+s,Sjöbo,Lärare i fritidshem/Fritidspedagog,6,0,0
+s,samordnare,Jobbcoach/Utbildningscoach,5,0,0
+s,Skaraborg,Montör; metallprodukter,9,0,0
+s,Skåne,Läkarsekreterare/Vårdadmin/Medicinsk sekreterare,5,0,0
+s,Skåne,Lärare i fritidshem/Fritidspedagog,9,0,0
+s,Skåne,Lärare i förskola/Förskollärare,10,0,0
+s,Skåne,Lärare i grundskolan; årskurs 4-6,6,0,0
+s,Skåne,Lärare i grundskolan; årskurs 7-9,7,0,0
+s,Skåne,Lärare i gymnasiet,8,0,0
+s,Skåne,Marknadsförare,6,0,0
+s,Skåne,Medlemsvärvare; intresseorg./Telefonkommunikatör,5,0,0
+s,Skåne,Lagerarbetare,8,0,0
+s,Skåne,Undersköterska; hemtjänst och äldreboende,12,0,0
+s,Skåne,Städare/Lokalvårdare,20,0,0
+s,Skåne,Specialpedagog,11,0,0
+s,Skåne,Socionom,5,0,0
+s,Skåne,Socialsekreterare,10,0,0
+s,Skåne,Sjuksköterska; grundutbildad,12,0,0
+s,Skåne,Receptionist; telefonist,17,0,0
+s,Skåne,Psykolog,8,0,0
+s,Skaraborg,Kranbilsförare,5,0,0
+s,Skåne,Truckförare,5,0,0
+s,Skåne,Kurator,14,0,0
+s,Skåne,Personlig assistent,13,0,0
+s,Skåne,Innesäljare,10,0,0
+s,Skaraborg,Truckförare,7,0,0
+s,Skaraborg,Undersköterska; vård- o specialavd. o mottagning,6,0,0
+s,Skellefteå kommun,Sjuksköterska; grundutbildad,6,0,0
+s,Skoladministratör,Administrativ utvecklare,5,0,0
+s,Skåne,Account manager,13,0,0
+s,Skåne,Administrativ assistent,8,0,0
+s,Skåne,Arbetsterapeut,7,0,0
+s,Skåne,Behandlingsassistent/Socialpedagog,5,0,0
+s,Skåne,Budbilsförare,5,0,0
+s,Skåne,Barnmorska,5,0,0
+s,Skåne,Hemförsäljare,6,0,0
+s,Skåne,Eventsäljare/Eventförsäljare,8,0,0
+s,Skåne,Elevassistent,6,0,0
+s,Skåne,Ekonomiassistent,5,0,0
+s,Skåne,Distributionsförare,20,0,0
+s,Skåne,Informatör/Kommunikatör,7,0,0
+s,Skåne,Butikssäljare/Medarbetare; dagligvaror,10,0,0
+t,teckenspråk,Elevassistent,6,0,0
+t,teckenspråk,Vårdare/Arbetshandledare/Boendestödjare,14,0,0
+t,teacher,Lärare i gymnasiet,10,0,0
+t,teacher,Lärare i grundskolan; årskurs 7-9,8,0,0
+t,tekniker,Helpdesktekniker/Supporttekniker,23,0,0
+t,tekniker,IT-tekniker/Datatekniker,12,0,0
+t,telecomputing,Helpdesktekniker/Supporttekniker,5,0,0
+t,testare,Systemtestare,16,0,0
+t,teacher,Lärare i grundskolan; årskurs 1-3,7,0,0
+t,teckenspråk,Personlig assistent,25,0,0
+t,teacher,Elevassistent,5,0,0
+t,Teckenspråk,Vårdare/Arbetshandledare/Boendestödjare,8,0,0
+t,Tekniker,Helpdesktekniker/Supporttekniker,5,0,0
+t,Telecom,Projektledare; IT,5,0,0
+t,Tekniker,IT-tekniker/Datatekniker,7,0,0
+t,Tak,Abonnemangsförsäljare,9,0,0
+t,Teacher,Lärare i grundskolan; årskurs 7-9,10,0,0
+t,Teckenspråk,Elevassistent,5,0,0
+t,textil,Inköpsassistent,5,0,0
+t,Teckenspråk,Pedagogassistent,5,0,0
+t,Teckenspråk,Personlig assistent,13,0,0
+t,Teckenspråk,Speciallärare,9,0,0
+t,tapas,Kock; à la carte,6,0,0
+t,textil,Lärare i grundskolan; årskurs 4-6,7,0,0
+t,trafikskola,Trafiklärare,5,0,0
+t,textillärare,Lärare i grundskolan; årskurs 4-6,7,0,0
+t,Testare,Systemtestare,20,0,0
+t,tysktalande,Kundtjänstmedarbetare,8,0,0
+t,tyska,Receptionist; telefonist,10,0,0
+t,tyska,Ordermottagare,7,0,0
+t,tyska,Orderadministratör,9,0,0
+t,tyska,Modersmålslärare i grundskolan,17,0,0
+t,tyska,Lärare i gymnasiet,40,0,0
+t,tyska,Lärare i grundskolan; årskurs 7-9,53,0,0
+t,tyska,Kundtjänstmedarbetare,17,0,0
+t,tyska,Ekonomiassistent,5,0,0
+t,tyska,Administrativ assistent,10,0,0
+t,turkiska,Modersmålslärare/Modersmålspedagog,7,0,0
+t,tumba,Lagerarbetare,5,0,0
+t,tull,Tulltjänsteman,6,0,0
+t,träning,Personlig tränare/PT,6,0,0
+t,tränare,Personlig tränare/PT,7,0,0
+t,truckkort,Lagerarbetare,7,0,0
+t,textilslöjd,Lärare i grundskolan; årskurs 4-6,17,0,0
+t,textilslöjd,Lärare i grundskolan; årskurs 7-9,9,0,0
+t,thai,Kock; à la carte,6,0,0
+t,thai,Specialkock,9,0,0
+t,tigrinja,Jobbcoach/Utbildningscoach,9,0,0
+t,tigrinja,Modersmålslärare i grundskolan,10,0,0
+t,textil,Lärare i grundskolan; årskurs 7-9,7,0,0
+t,tigrinja,Verksamhetskonsult,6,0,0
+t,till,Butikssäljare; fackhandel,5,0,0
+t,till,Farmaceut/Apotekare,12,0,0
+t,till,Kurator,5,0,0
+t,torslanda,Lärare i förskola/Förskollärare,8,0,0
+t,trainee,CNC-operatör/FMS-operatör,7,0,0
+t,triangeln,Butikssäljare; fackhandel,5,0,0
+t,till,Administrativ assistent,8,0,0
+t,Textilslöjd,Lärare i grundskolan; årskurs 4-6,6,0,0
+t,Tyska,Lärare i gymnasiet,11,0,0
+t,Trädgårdsarbetare,Arbetsledare;trädgård/Trädgårdsanläggningsförman,10,0,0
+t,Trädgårdsarbetare,Parkarbetare/Utemiljöarbetare/Miljövärd,15,0,0
+t,Trädgårdsarbetare,Trädgårdsanläggare/Trädgårdsanläggningsarbetare,32,0,0
+t,Trädgårdsarbetare,Trädgårdsarbetare/Plantskolearbetare; trädgård,18,0,0
+t,Träning,Personlig tränare/PT,7,0,0
+t,Tumba,Ekonomiassistent,6,0,0
+t,Tumba,Lagerarbetare,12,0,0
+t,Tyska,Lärare i grundskolan; årskurs 7-9,32,0,0
+t,Trappstädning,Städare/Lokalvårdare,7,0,0
+u,undersköterska labbrotoriet,Undersköterska; vård- o specialavd. o mottagning,10,0,0
+u,undersköterska labbrotoriet,Undersköterska; hemtjänst och äldreboende,23,0,0
+u,undersköterska,Vårdbiträde,9,0,0
+u,undersköterska,Vårdare/Arbetshandledare/Boendestödjare,24,0,0
+u,undersköterska,Undersköterska; vård- o specialavd. o mottagning,150,0,0
+u,undersköterska,Undersköterska; hemtjänst och äldreboende,209,0,0
+u,undersköterska,Stödassistent,6,0,0
+u,undersköterska,Personlig assistent,33,0,0
+u,undersköterska,Skötare,19,0,0
+u,undersköterska,Sjuksköterska; grundutbildad,23,0,0
+u,undersköterska,SOS-operatör,5,0,0
+u,ungerska,Modersmålslärare i grundskolan,5,0,0
+u,undersköterska,Elevassistent,9,0,0
+u,undersköterska,Behandlingsassistent/Socialpedagog,6,0,0
+u,underläkare,ST-läkare,8,0,0
+u,undersköterska,Steriltekniker/Undersköterska; sterilcentral,5,0,0
+u,uniflex,Kontorsreceptionist,31,0,0
+u,upplärning,Tidningsbud/Tidningsdistributör,5,0,0
+u,uniflex,Kundtjänstmedarbetare,33,0,0
+u,utvecklingsledare,Organisationsutvecklare,5,0,0
+u,utvecklare,Systemutvecklare/Programmerare,7,0,0
+u,utredare,Socionom,6,0,0
+u,utredare,Socialsekreterare,9,0,0
+u,utredare,Handläggare/Utredare; offentlig förvaltning,68,0,0
+u,utredare,Controller,5,0,0
+u,urdu,Modersmålslärare/Modersmålspedagog,7,0,0
+u,uniflex,Kontorsvaktmästare,10,0,0
+u,uppsala,Vårdare/Arbetshandledare/Boendestödjare,5,0,0
+u,uppsala,Städare/Lokalvårdare,6,0,0
+u,uppsala,Projektledare; IT,8,0,0
+u,uppsala,Personlig assistent,10,0,0
+u,uppsala,IT-tekniker/Datatekniker,7,0,0
+u,underläkare,Läkare,50,0,0
+u,upphandling,Upphandlare,9,0,0
+u,upphandling,Inköpare,5,0,0
+u,uppsala,Systemadministratör,8,0,0
+u,uber,Taxiförare/Taxichaufför,12,0,0
+u,utvecklare web,Systemutvecklare/Programmerare,5,0,0
+u,Undersköterska,Elevassistent,6,0,0
+u,Undersköterska,Skötare,11,0,0
+u,Undersköterska,Behandlingsassistent/Socialpedagog,5,0,0
+u,Underläkare,Läkare,19,0,0
+u,Uddevalla kommun västra götalandå,Sjuksköterska; grundutbildad,5,0,0
+u,UNDER,Sjuksköterska; grundutbildad,5,0,0
+u,Undersköterska,Stödassistent,5,0,0
+u,Undersköterska,Undersköterska; hemtjänst och äldreboende,152,0,0
+u,Undersköterska,Undersköterska; vård- o specialavd. o mottagning,155,0,0
+u,Undersköterska,Vårdare/Arbetshandledare/Boendestödjare,25,0,0
+u,Undersköterska,Vårdbiträde,5,0,0
+u,Uppsala,Personlig assistent,8,0,0
+u,Uppsala kommun,Städare/Lokalvårdare,96,0,0
+u,Utredare,Handläggare/Utredare; offentlig förvaltning,22,0,0
+u,Utvecklare,Systemutvecklare/Programmerare,9,0,0
+u,Utvecklingsledare,Lärare i förskola/Förskollärare,10,0,0
+u,Utvecklingsledare,Lärare i grundskolan; årskurs 1-3,5,0,0
+u,Undersköterska,Personlig assistent,10,0,0
+u,Undersköterska,Sjuksköterska; grundutbildad,13,0,0
+v,verksamhetsutvecklare,Organisationsutvecklare,11,0,0
+v,Visby,Lagerarbetare,7,0,0
+v,verksamhetsutvecklare,Administrativ utvecklare,13,0,0
+v,verksamhetscontroller,Controller,6,0,0
+v,verksamhet,Vårdare/Arbetshandledare/Boendestödjare,6,0,0
+v,vedum,Montör; träprodukter,6,0,0
+v,vd,Verkställande direktör,20,0,0
+v,varuplockare,Butikssäljare/Medarbetare; dagligvaror,6,0,0
+v,varuplock,Butikssäljare/Medarbetare; dagligvaror,10,0,0
+v,Visby,Helpdesktekniker/Supporttekniker,8,0,0
+v,vapiano,Restaurangbiträde,6,0,0
+v,vaktmästare,Sjukhusvaktmästare,8,0,0
+v,vaktmästare,Kontorsvaktmästare,18,0,0
+v,vaktmästare,Fastighetsskötare/Fastighetsarbetare,5,0,0
+v,verksamhetsutvecklare,Verksamhetsanalytiker,6,0,0
+v,vad som helst,Verkstadsmekaniker/Verkstadstekniker,5,0,0
+v,vikarie,Barnskötare,32,0,0
+v,vikarie,Lärare i förskola/Förskollärare,10,0,0
+v,västmanland,Sjuksköterska; grundutbildad,19,0,0
+v,västmanland,Sjuksköterska; psykiatrisk vård,5,0,0
+v,växjö,Personlig assistent,5,0,0
+v,växjö,Socialsekreterare,5,0,0
+v,vård,Lärare i gymnasiet - yrkesämnen,5,0,0
+v,vård,Undersköterska; hemtjänst och äldreboende,31,0,0
+v,vällingby,Personlig assistent,10,0,0
+v,vård och omsorg,Undersköterska; hemtjänst och äldreboende,6,0,0
+v,vård omsorg,Undersköterska; hemtjänst och äldreboende,7,0,0
+v,vårdcentral,Sjuksköterska; grundutbildad,11,0,0
+v,vården,Personlig assistent,6,0,0
+v,vårdlärare,Lärare i gymnasiet,24,0,0
+v,vårdlärare,Lärare i gymnasiet - yrkesämnen,54,0,0
+v,vårdlärare,Undersköterska; hemtjänst och äldreboende,5,0,0
+v,vård och omsårg,Undersköterska; hemtjänst och äldreboende,5,0,0
+v,vikarie,Lärare i fritidshem/Fritidspedagog,5,0,0
+v,vällingby,Barnskötare,8,0,0
+v,vvs,VVS-ingenjör,5,0,0
+v,vikarie,Lärare i grundskolan; årskurs 1-3,11,0,0
+v,vikarie,Personlig assistent,24,0,0
+v,vikarie,Vårdare/Arbetshandledare/Boendestödjare,7,0,0
+v,visby,Barnflicka/Barnvakt,5,0,0
+v,visby,Butikssäljare; fackhandel,5,0,0
+v,visby,Lagerarbetare,13,0,0
+v,vvs,VVS-montör,7,0,0
+v,visby,Parkarbetare/Utemiljöarbetare/Miljövärd,6,0,0
+v,visby,Restaurangbiträde,8,0,0
+v,visby,Servitör/Servitris,20,0,0
+v,visby,Systemförvaltare,5,0,0
+v,volvo,Fordonsmontör,12,0,0
+v,volvo,Fordonstekniker/Bilmekaniker/Personbilsmekaniker,5,0,0
+v,volvo,Informationschef/Kommunikationschef,5,0,0
+v,visby,Receptionist; telefonist,9,0,0
+v,vad som helst,Utesäljare,10,0,0
+v,varuplock,Butikskonsulent,5,0,0
+v,vad som helst,Systemutvecklare/Programmerare,6,0,0
+v,Verksamhetsledare,Lärare i förskola/Förskollärare,5,0,0
+v,Verksamhetsledare,Personlig assistent,7,0,0
+v,Verksamhetsutvecklare,Organisationsutvecklare,8,0,0
+v,Visby,Administrativ chef,5,0,0
+v,Visby,Barnflicka/Barnvakt,6,0,0
+v,Visby,Besöksbokare/Kundbokare,6,0,0
+v,Visby,Butikssäljare; fackhandel,5,0,0
+v,Vårdlärare,Lärare i gymnasiet - yrkesämnen,9,0,0
+v,Vård,Lärare i gymnasiet - yrkesämnen,6,0,0
+v,Vällingby,Undersköterska; hemtjänst och äldreboende,7,0,0
+v,Vällingby,Personlig assistent,7,0,0
+v,Vällingby,Kundtjänstmedarbetare,11,0,0
+v,vad som helst,Truckförare,15,0,0
+v,Vällingby,Barnskötare,9,0,0
+v,Vuxna,Lärare i gymnasiet - yrkesämnen,5,0,0
+v,Volvo,Truckförare,5,0,0
+v,Volvo,Informationschef/Kommunikationschef,5,0,0
+v,Volvo,Fordonsmontör,12,0,0
+v,Visma,Löneadministratör,9,0,0
+v,Visby,Receptionist; telefonist,10,0,0
+v,Visby,Personlig assistent,14,0,0
+v,Verksamhetschef,Verksamhetschef; hälso- och sjukvård,8,0,0
+v,Veddige,Produktionstekniker; maskin/verkstad,6,0,0
+v,Vällingby,Butikssäljare; fackhandel,9,0,0
+v,Vaktmästare,Undersköterska; hemtjänst och äldreboende,8,0,0
+v,vad som helst,Städare/Lokalvårdare,5,0,0
+v,vad som helst,Speciallärare,5,0,0
+v,vad som helst,Sjuksköterska; grundutbildad,12,0,0
+v,vad som helst,Restaurangbiträde,5,0,0
+v,vad som helst,Montör; träprodukter,5,0,0
+v,vad som helst,Montör; metallprodukter,10,0,0
+v,vad som helst,Lärare i gymnasiet,6,0,0
+v,vad som helst,Lärare i förskola/Förskollärare,10,0,0
+v,vad som helst,Lagerarbetare,6,0,0
+v,vad som helst,Hemförsäljare,7,0,0
+v,vad som helst,Distributionsförare,5,0,0
+v,vad som helst,Administrativ assistent,5,0,0
+v,vad som helst,CNC-operatör/FMS-operatör,6,0,0
+v,Varbergs kommun,Lärare i grundskolan; årskurs 7-9,8,0,0
+v,Vaktmästare,Fastighetsskötare/Fastighetsarbetare,12,0,0
+v,Vaktmästare,Kontorsvaktmästare,22,0,0
+v,Vaktmästare,Lärare i fritidshem/Fritidspedagog,5,0,0
+v,Vaktmästare,Lärare i grundskolan; årskurs 1-3,5,0,0
+v,Vaktmästare,Lärare i grundskolan; årskurs 4-6,6,0,0
+v,Vaktmästare,Parkarbetare/Utemiljöarbetare/Miljövärd,6,0,0
+v,Vaktmästare,Skolvaktmästare,15,0,0
+v,VD,Verkställande direktör,15,0,0
+w,wordpress,Systemutvecklare/Programmerare,10,0,0
+w,webbutvecklare,Systemutvecklare/Programmerare,12,0,0
+w,windows server,Helpdesktekniker/Supporttekniker,11,0,0
+x,xxl,Butikssäljare; fackhandel,5,0,0
+y,yrkeslärare,Lärare i gymnasiet - yrkesämnen,24,0,0
+y,yrkesvägledare,Jobbcoach/Utbildningscoach,5,0,0
+y,yrkesvägledare,Studie- och yrkesvägledare,17,0,0
+y,yrkeslärare,Lärare i gymnasiet,6,0,0
+y,Yrkeslärare,Lärare i gymnasiet - yrkesämnen,9,0,0
+y,Yrkeslärare,Lärare i gymnasiet,6,0,0
+z,Zoovillage,Kundtjänstmedarbetare,7,0,0
+z,zara,Butikssäljare; fackhandel,7,0,0
+ä,äldreboende,Sjuksköterska; äldreomsorg och -vård/geriatrik,7,0,0
+ä,äldreboende,Sjuksköterska; grundutbildad,22,0,0
+ä,äldreomsorg,Undersköterska; hemtjänst och äldreboende,6,0,0
+ä,äldreboende,Undersköterska; hemtjänst och äldreboende,22,0,0
+ä,äldreomsorg,Personlig assistent,13,0,0
+ä,Äldreomsorg,Undersköterska; hemtjänst och äldreboende,11,0,0
+ä,Äldreboende,Undersköterska; hemtjänst och äldreboende,15,0,0
+å,Åkersberga,Vårdare/Arbetshandledare/Boendestödjare,5,0,0
+å,Åkersberga,Sjuksköterska; grundutbildad,6,0,0
+å,åstorp,Lärare i förskola/Förskollärare,13,0,0
+å,åkersberga,Butikssäljare/Medarbetare; dagligvaror,9,0,0
+å,Åkersberga,Butikssäljare/Medarbetare; dagligvaror,6,0,0
+å,åhlens,Butikssäljare; fackhandel,6,0,0
+å,Åkersberga,Undersköterska; hemtjänst och äldreboende,5,0,0
+ö,örebro,Personlig assistent,12,0,0
+ö,österfärnebo,Lärare i grundskolan; årskurs 7-9,7,0,0
+ö,örebro,Vårdare/Arbetshandledare/Boendestödjare,9,0,0
+ö,Östergötland,Arkivarie,6,0,0
+ö,Östergötland,Distributionsförare,5,0,0
+ö,Örnsköldsviks,Samtalsterapeut,5,0,0
+ö,Örebro,Vårdare/Arbetshandledare/Boendestödjare,5,0,0
+ö,Örebro,Butikssäljare; fackhandel,5,0,0
+ö,ÖREBRO,Personlig assistent,5,0,0
+ö,överförmyndarhandläggare,Handläggare/Utredare; offentlig förvaltning,7,0,0
+ö,Östergötland,Läkarsekreterare/Vårdadmin/Medicinsk sekreterare,5,0,0
+ö,översättning,Marknadsförare,5,0,0
