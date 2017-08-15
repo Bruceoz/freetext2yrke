@@ -46,7 +46,7 @@ var valueField = "Federal";
 var valueFields = ["Federal", "State", "Local"];
 
 
-var formatCurrency = function (d) { if (isNaN(d)) d = 0; return   d3.format(",.2f")(d) + " Antal annonser"; };
+var formatCurrency = function (d) { if (isNaN(d)) d = 0; return   " Antal öppnade annonser: " + d3.format("")(d); };
 
 function loadData() {
 
@@ -158,15 +158,15 @@ function initialize() {
     changeSize(d3.select("#currentDisplay").attr("item_value"));
 
     // Open up some of the tree branches.
-    viz.toggleNode(data.values[2]);
-    viz.toggleNode(data.values[2].values[0]);
-    viz.toggleNode(data.values[3]);
+    viz.toggleNode(data.values[1]);
+    //viz.toggleNode(data.values[2].values[0]);
+    //viz.toggleNode(data.values[3]);
 
 }
 
 
 function trimLabel(label) {
-   return (String(label).length > 20) ? String(label).substr(0, 17) + "..." : label;
+   return (String(label).length > 50) ? String(label).substr(0, 20) + "..." : label;
 }
 
 
@@ -175,7 +175,7 @@ var datatip='<div class="tooltip" style="width: 250px; background-opacity:.5">' 
     '<div class="header-rule"></div>' +
     '<div class="header2"> HEADER2 </div>' +
     '<div class="header-rule"></div>' +
-    '<div class="header3"> HEADER3 </div>' +
+    //'<div class="header3"> HEADER3 </div>' +
     '</div>';
 
 
@@ -185,7 +185,7 @@ function createDataTip(x,y,h1,h2,h3) {
 
     var html = datatip.replace("HEADER1", h1);
     html = html.replace("HEADER2", h2);
-    html = html.replace("HEADER3", h3);
+    //html = html.replace("HEADER3", h3);
 
     d3.select("body")
         .append("div")
@@ -209,7 +209,8 @@ function onMouseOver(e,d,i) {
     if (d == data) return;
     var rect = e.getBoundingClientRect();
     if (d.target) d = d.target; //This if for link elements
-    createDataTip(rect.left, (rect.top+viz.height() *.05), (d.key || (d['Level' + d.depth])), formatCurrency(d["agg_" + valueField]),valueField);
+    //(createDataTip(rect.left, (rect.top+viz.height() *.05), (d.key || (d['Level' + d.depth])),valueField);
+	createDataTip(rect.left, (rect.top+viz.height() *.05), (d.key || (d['Level' + d.depth])), formatCurrency(d["agg_" + valueField]));
 
 
 }
